@@ -1,0 +1,11 @@
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Content\styles.css
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Views\Configure.cshtml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Description.txt
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\web.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\logo.jpg
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.csproj.App.config
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.pdb

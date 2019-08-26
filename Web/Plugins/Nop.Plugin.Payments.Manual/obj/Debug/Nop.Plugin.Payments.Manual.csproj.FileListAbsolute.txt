@@ -1,0 +1,12 @@
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.App.config
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

@@ -1,0 +1,87 @@
+﻿@using System.Collections
+@using System.Data
+@using Nop.Admin.Controllers
+@{
+    string strQuery = @"Exec [dbo].[SP_CategoryWiseTotalSell];";
+    DataOperation _dataOperation = new DataOperation();
+    DataTable dt = _dataOperation.GetDataTable(strQuery);
+    Html.SetActiveMenuItemSystemName("CategorySale");
+    ArrayList categoryList = new ArrayList();
+    List<CategoryTodaySale> categoryTodaySaleList = new List<CategoryTodaySale>();
+    for (int i = 0; i < dt.Rows.Count; i++)
+    {
+        if (!categoryList.Contains(dt.Rows[i][0].ToString()))
+        {
+            categoryList.Add(dt.Rows[i][0].ToString());
+            CategoryTodaySale objCategoryTodaySale = new CategoryTodaySale();
+            objCategoryTodaySale.CategoryName = dt.Rows[i][0].ToString();
+            objCategoryTodaySale.TotalOrder = Convert.ToDecimal(dt.Rows[i][5].ToString());
+            objCategoryTodaySale.TotalDue = Convert.ToDecimal(dt.Rows[i][6].ToString());
+            objCategoryTodaySale.TotalPayment = Convert.ToDecimal(dt.Rows[i][7].ToString());
+            categoryTodaySaleList.Add(objCategoryTodaySale);
+        }
+        else
+        {
+            CategoryTodaySale objCategoryTodaySale = new CategoryTodaySale();
+            objCategoryTodaySale.CategoryName = dt.Rows[i][0].ToString();
+            objCategoryTodaySale.TotalOrder = Convert.ToDecimal(dt.Rows[i][5].ToString());
+            objCategoryTodaySale.TotalDue = Convert.ToDecimal(dt.Rows[i][6].ToString());
+            objCategoryTodaySale.TotalPayment = Convert.ToDecimal(dt.Rows[i][7].ToString());
+            categoryTodaySaleList.Find(t => t.CategoryName == objCategoryTodaySale.CategoryName).TotalOrder += objCategoryTodaySale.TotalOrder;
+            categoryTodaySaleList.Find(t => t.CategoryName == objCategoryTodaySale.CategoryName).TotalDue += objCategoryTodaySale.TotalDue;
+            categoryTodaySaleList.Find(t => t.CategoryName == objCategoryTodaySale.CategoryName).TotalPayment += objCategoryTodaySale.TotalPayment;
+        }
+    }
+
+}
+<div>
+    <br />
+    @foreach (var item in categoryList)
+    {
+        <h3>@item.ToString()</h3>
+        <h4>Total Order: @categoryTodaySaleList.Find(t => t.CategoryName == @item.ToString()).TotalOrder</h4>
+        <h4>Total Due: @categoryTodaySaleList.Find(t => t.CategoryName == @item.ToString()).TotalDue</h4>
+        <h4>Total Payment: @categoryTodaySaleList.Find(t => t.CategoryName == @item.ToString()).TotalPayment</h4>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Order</th>
+                    <th>Customer</th>
+                    <th>Address</th>
+                    <th>Mobile</th>
+                    <th>Total Order</th>
+                    <th>Total Due</th>
+                    <th>Total Payment</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < dt.Rows.Count; i++)
+                {
+                    if (dt.Rows[i][0].ToString() == item.ToString())
+                    {
+                        <tr>
+                            <td>
+                                @if (dt.Rows[i][1].ToString() != "TOTAL:")
+                                {
+                                    @Html.ActionLink(dt.Rows[i][1].ToString(), "Edit",
+                                        "Order", new {id = dt.Rows[i][1].ToString()}, null)
+                                }
+                                else
+                                {
+                                    @dt.Rows[i][1]
+                                }
+                            </td>
+                            <td>@dt.Rows[i][2]</td>
+                            <td>@dt.Rows[i][3]</td>
+                            <td>@dt.Rows[i][4]</td>
+                            <td>@dt.Rows[i][5]</td>
+                            <td>@dt.Rows[i][6]</td>
+                            <td>@dt.Rows[i][7]</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+
+    }
+</div>

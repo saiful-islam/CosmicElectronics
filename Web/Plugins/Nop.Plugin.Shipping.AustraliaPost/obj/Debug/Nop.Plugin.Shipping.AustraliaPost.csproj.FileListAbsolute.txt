@@ -1,0 +1,11 @@
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\Configure.cshtml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.App.config
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb

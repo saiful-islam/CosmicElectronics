@@ -1,0 +1,14 @@
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\Configure.cshtml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\PublicInfo.cshtml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\web.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.App.config
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb

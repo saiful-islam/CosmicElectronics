@@ -1,0 +1,92 @@
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Nop.Core.dll.config
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Nop.Core.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Nop.Core.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Autofac.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Autofac.Integration.Mvc.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\AutoMapper.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Newtonsoft.Json.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\RedLock.StrongName.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\StackExchange.Redis.StrongName.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.Helpers.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.Mvc.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.Razor.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Autofac.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Autofac.Integration.Mvc.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\AutoMapper.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\Newtonsoft.Json.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\StackExchange.Redis.StrongName.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.Helpers.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.Mvc.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.Razor.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojResolveAssemblyReference.cache
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Nop.Core.dll.config
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Nop.Core.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Nop.Core.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Autofac.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Autofac.Integration.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\AutoMapper.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Newtonsoft.Json.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\RedLock.StrongName.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\StackExchange.Redis.StrongName.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.Helpers.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.Razor.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Autofac.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Autofac.Integration.Mvc.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\AutoMapper.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\Newtonsoft.Json.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\StackExchange.Redis.StrongName.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.Helpers.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.Mvc.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.Razor.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojResolveAssemblyReference.cache
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Nop.Core.dll.config
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Nop.Core.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Nop.Core.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Autofac.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Autofac.Integration.Mvc.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\AutoMapper.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Newtonsoft.Json.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\RedLock.StrongName.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\StackExchange.Redis.StrongName.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.Helpers.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.Mvc.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.Razor.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Autofac.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Autofac.Integration.Mvc.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\AutoMapper.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\Newtonsoft.Json.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\StackExchange.Redis.StrongName.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.Helpers.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.Mvc.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.Razor.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\obj\Debug\Nop.Core.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\obj\Debug\Nop.Core.csproj.CopyComplete
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb

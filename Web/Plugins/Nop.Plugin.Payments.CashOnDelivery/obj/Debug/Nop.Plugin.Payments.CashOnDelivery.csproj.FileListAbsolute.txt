@@ -1,0 +1,11 @@
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\Configure.cshtml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentInfo.cshtml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\web.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo.jpg
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.csprojResolveAssemblyReference.cache
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

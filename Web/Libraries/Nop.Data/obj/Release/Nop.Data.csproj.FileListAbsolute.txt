@@ -1,0 +1,74 @@
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Nop.Data.dll.config
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Nop.Data.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Nop.Data.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\EntityFramework.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Nop.Core.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Data.SqlServerCe.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Autofac.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\AutoMapper.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\StackExchange.Redis.StrongName.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\RedLock.StrongName.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.Mvc.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Autofac.Integration.Mvc.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Newtonsoft.Json.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.Razor.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.WebPages.Razor.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.WebPages.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.WebPages.Deployment.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Nop.Core.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\EntityFramework.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Autofac.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\AutoMapper.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\StackExchange.Redis.StrongName.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.Mvc.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Autofac.Integration.Mvc.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\Newtonsoft.Json.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.Razor.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.WebPages.Razor.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.WebPages.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\bin\Release\System.Web.WebPages.Deployment.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\obj\Release\Nop.Data.csprojResolveAssemblyReference.cache
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\obj\Release\Nop.Data.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Libraries\Nop.Data\obj\Release\Nop.Data.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Nop.Data.dll.config
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Nop.Data.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Nop.Data.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\EntityFramework.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Nop.Core.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Data.SqlServerCe.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Autofac.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\AutoMapper.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\StackExchange.Redis.StrongName.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\RedLock.StrongName.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Autofac.Integration.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Newtonsoft.Json.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.Razor.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.WebPages.Razor.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.WebPages.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.WebPages.Deployment.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Nop.Core.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\EntityFramework.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Autofac.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\AutoMapper.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\StackExchange.Redis.StrongName.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.Mvc.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Autofac.Integration.Mvc.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\Newtonsoft.Json.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.Razor.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.WebPages.Razor.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.WebPages.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\bin\Release\System.Web.WebPages.Deployment.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\obj\Release\Nop.Data.csprojResolveAssemblyReference.cache
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\obj\Release\Nop.Data.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Data\obj\Release\Nop.Data.pdb

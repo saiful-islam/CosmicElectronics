@@ -1,0 +1,132 @@
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\csc.exe
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\System.Collections.Immutable.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\System.Reflection.Metadata.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\vbc.exe
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\VBCSCompiler.exe
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\VBCSCompiler.exe.config
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\IslamTraders_Accounts.dll.config
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\IslamTraders_Accounts.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\IslamTraders_Accounts.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Antlr3.Runtime.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\AspNet.ScriptManager.bootstrap.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\AspNet.ScriptManager.jQuery.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\EntityFramework.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\EntityFramework.SqlServer.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Google.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.ScriptManager.WebForms.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Web.Infrastructure.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Newtonsoft.Json.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\System.Web.Optimization.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\System.Web.Providers.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\WebGrease.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\System.Web.Optimization.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Antlr3.Runtime.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Newtonsoft.Json.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\EntityFramework.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\EntityFramework.SqlServer.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\System.Web.Providers.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Google.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\obj\Release\IslamTraders_Accounts.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\obj\Release\IslamTraders_Accounts.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\obj\Release\DOTPOSAccounts.csprojResolveAssemblyReference.cache
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\csc.exe
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\vbc.exe
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\IslamTraders_Accounts.dll.config
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\IslamTraders_Accounts.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\IslamTraders_Accounts.pdb
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Antlr3.Runtime.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\EntityFramework.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\EntityFramework.SqlServer.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Newtonsoft.Json.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Owin.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\System.Web.Optimization.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\System.Web.Providers.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\WebGrease.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\System.Web.Optimization.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Antlr3.Runtime.pdb
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Newtonsoft.Json.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\EntityFramework.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\EntityFramework.SqlServer.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\System.Web.Providers.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\obj\Release\DOTPOSAccounts.csprojResolveAssemblyReference.cache
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\obj\Release\IslamTraders_Accounts.dll
+C:\Users\Saiful.Islam\Google Drive\DoTBanglaSoft\Projects\DotPOS\Accounts\DOTPOSAccounts\obj\Release\IslamTraders_Accounts.pdb
