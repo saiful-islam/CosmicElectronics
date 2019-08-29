@@ -1,0 +1,16 @@
+Name: admin@cosmicelectronics.com
+Pass: admin@123456
+
+Name: sales@cosmicelectronics.com
+Pass: sales@12345
+
+Name: dealers@cosmicelectronics.com
+Pass: dealers@123456
+
+For Accounts:
+
+User: Accounts@cosmicelectronics.com
+Pass: Accounts@123456
+
+User: admin@cosmicelectronics.com
+Pass: Admi9@8aipur$8ade8s

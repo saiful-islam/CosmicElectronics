@@ -36,7 +36,6 @@
             <asp:BoundField DataField="Category2" HeaderText="Sub Category" />
             <asp:BoundField DataField="Category3" HeaderText="Final Category" />
             <asp:BoundField DataField="Account" HeaderText="Account" />
-            <asp:BoundField DataField="PaymentId" HeaderText="Payment Id" />
             <asp:BoundField DataField="TransTotal" HeaderText="TransTotal" />
             <asp:BoundField DataField="TransDateUTC" HeaderText="Date" />
             <asp:BoundField DataField="TransComment" HeaderText="Comment" />

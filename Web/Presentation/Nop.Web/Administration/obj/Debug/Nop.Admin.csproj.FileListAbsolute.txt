@@ -28,3 +28,12 @@ D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\Administration\ob
 D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csproj.CopyComplete
 D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
 D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csproj.App.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.csproj.CopyComplete
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Debug\Nop.Admin.pdb

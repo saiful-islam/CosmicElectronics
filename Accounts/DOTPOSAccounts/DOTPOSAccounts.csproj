@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -218,7 +219,6 @@
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Views\Accounts\Create.aspx" />
     <Content Include="Views\Accounts\Index.aspx" />
-    <Content Include="Views\DesktopReport\Desktop_CategoryWiseStock.aspx" />
     <Content Include="Views\Order\OrderReturn.aspx" />
     <Content Include="Views\Payment\Create.aspx" />
     <Content Include="Views\Payment\Due.aspx" />
@@ -425,13 +425,6 @@
     </Compile>
     <Compile Include="Views\Accounts\Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\DesktopReport\Desktop_CategoryWiseStock.aspx.cs">
-      <DependentUpon>Desktop_CategoryWiseStock.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\DesktopReport\Desktop_CategoryWiseStock.aspx.designer.cs">
-      <DependentUpon>Desktop_CategoryWiseStock.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Order\OrderReturn.aspx.cs">
       <DependentUpon>OrderReturn.aspx</DependentUpon>

@@ -74,47 +74,47 @@ namespace IslamTraders_Accounts.Views.Report
         }
         protected void btnSendSMS_Click(object sender, EventArgs e)
         {
-            string strQuery = "select Name,Address,MobileNo from SendSMSLog where SMSDate='" + DateTime.UtcNow + "'";
-            DataTable dtSMS = _db.GetDataTable(strQuery);
-            if (dtSMS.Rows.Count == 0)
-            {
-                strQuery = "exec [dbo].[SP_OrderWiseDuebyDate] @DueDate='" + DateTime.UtcNow + "'";
-                DataTable dt = _db.GetDataTable(strQuery);
+//            string strQuery = "select Name,Address,MobileNo from SendSMSLog where SMSDate='" + DateTime.UtcNow + "'";
+//            DataTable dtSMS = _db.GetDataTable(strQuery);
+//            if (dtSMS.Rows.Count == 0)
+//            {
+//                strQuery = "exec [dbo].[SP_OrderWiseDuebyDate] @DueDate='" + DateTime.UtcNow + "'";
+//                DataTable dt = _db.GetDataTable(strQuery);
 
-                List<string> numbers = new List<string>();
-                for (int i = 0; i < dt.Rows.Count; i++)
-                {
-                    try
-                    {
-                        string mobileNo = dt.Rows[i]["PhoneNumber"].ToString().Trim().Substring(0, 11);
-                        double d = Convert.ToDouble(mobileNo);
-                        if (!numbers.Contains(mobileNo))
-                        {
-                            numbers.Add(mobileNo);
-                            string Query = @"insert into SendSMSLog
-                                        values('" + DateTime.Now + "'," + dt.Rows[i]["OrderId"].ToString() + ", '" + dt.Rows[i]["CustomerName"].ToString() + "', '" + dt.Rows[i]["Address"].ToString() + "','" + mobileNo + "')";
-                            _db.ExecuteNonQuery(Query);
-                        }
+//                List<string> numbers = new List<string>();
+//                for (int i = 0; i < dt.Rows.Count; i++)
+//                {
+//                    try
+//                    {
+//                        string mobileNo = dt.Rows[i]["PhoneNumber"].ToString().Trim().Substring(0, 11);
+//                        double d = Convert.ToDouble(mobileNo);
+//                        if (!numbers.Contains(mobileNo))
+//                        {
+//                            numbers.Add(mobileNo);
+//                            string Query = @"insert into SendSMSLog
+//                                        values('" + DateTime.Now + "'," + dt.Rows[i]["OrderId"].ToString() + ", '" + dt.Rows[i]["CustomerName"].ToString() + "', '" + dt.Rows[i]["Address"].ToString() + "','" + mobileNo + "')";
+//                            _db.ExecuteNonQuery(Query);
+//                        }
 
-                    }
-                    catch { }
-                }
+//                    }
+//                    catch { }
+//                }
 
-                string number = string.Join(",", numbers.ToArray());
-                string message = @"আসসালামুয়ালিকুম 
-প্রিয় গ্রাহক আজকে আপনার বকেয়া দেওয়ার তারিখ। 
-দয়া করে আপনার বকেয়া পরিশোধ করুন। 
-ইসলাম ফার্নিচার লিঃ
-রায়পুর বাজার";
+//                string number = string.Join(",", numbers.ToArray());
+//                string message = @"আসসালামুয়ালিকুম 
+//প্রিয় গ্রাহক আজকে আপনার বকেয়া দেওয়ার তারিখ। 
+//দয়া করে আপনার বকেয়া পরিশোধ করুন। 
+//ইসলাম ফার্নিচার লিঃ
+//রায়পুর বাজার";
 
-                SMSSend(message, number);
-                GridViewLoad();
-            }
-            else
-            {
-                lblSMSStatus.Text = "Already Send message today";
-                Response.Write("<script>alert('Already Send message today');</script>");
-            }
+//                SMSSend(message, number);
+//                GridViewLoad();
+//            }
+//            else
+//            {
+//                lblSMSStatus.Text = "Already Send message today";
+//                Response.Write("<script>alert('Already Send message today');</script>");
+//            }
         }
     }
 

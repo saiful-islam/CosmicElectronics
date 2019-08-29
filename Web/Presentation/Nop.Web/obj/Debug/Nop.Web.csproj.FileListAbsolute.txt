@@ -1,0 +1,974 @@
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.dll.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Antlr3.Runtime.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServer.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.Mvc.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.Db.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.GeoIP2.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Edm.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.OData.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.Mvc.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Newtonsoft.Json.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Core.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Data.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Services.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.Framework.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Owin.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Data.SqlServerCe.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Extensions.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Formatting.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Primitives.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Spatial.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Helpers.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.Owin.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.WebHost.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Mvc.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Optimization.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Razor.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\WebGrease.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\AutoMapper.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\RedLock.StrongName.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\itextsharp.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EPPlus.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Linq.Dynamic.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ImageResizer.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Core.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Data.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Services.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.Framework.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Antlr3.Runtime.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServer.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.Db.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.GeoIP2.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Edm.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.OData.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.Mvc.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Newtonsoft.Json.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Extensions.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Formatting.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Primitives.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Spatial.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Helpers.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.Owin.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.WebHost.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Mvc.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Optimization.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Razor.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\AutoMapper.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\itextsharp.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EPPlus.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ImageResizer.xml
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\cs\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\da\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fa\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fi\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\mk\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\nl\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\pl\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\pt\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\sv\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\tr\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-CN\FluentValidation.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.App.config
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.csprojResolveAssemblyReference.cache
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.dll
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.pdb
+C:\D\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.dll.config
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Antlr3.Runtime.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServer.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.Mvc.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.Db.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.GeoIP2.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Edm.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.OData.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.Mvc.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Newtonsoft.Json.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Core.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Data.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Services.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.Framework.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Owin.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Data.SqlServerCe.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Extensions.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Formatting.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Primitives.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Spatial.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Helpers.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.Owin.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.WebHost.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Mvc.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Optimization.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Razor.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\WebGrease.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\AutoMapper.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\RedLock.StrongName.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\itextsharp.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EPPlus.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Linq.Dynamic.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ImageResizer.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Core.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Data.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Services.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.Framework.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Antlr3.Runtime.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServer.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.Db.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.GeoIP2.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Edm.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.OData.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.Mvc.pdb
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Newtonsoft.Json.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Extensions.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Formatting.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Primitives.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Spatial.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Helpers.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.Owin.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.WebHost.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Mvc.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Optimization.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Razor.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\AutoMapper.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\itextsharp.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EPPlus.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ImageResizer.xml
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\cs\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\da\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fa\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fi\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\mk\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\nl\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\pl\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\pt\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\sv\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\tr\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-CN\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.App.config
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.csprojResolveAssemblyReference.cache
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.dll
+C:\D\OneDrive - IQVIA\MyFolder\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.dll.config
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Antlr3.Runtime.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServer.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.Db.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.GeoIP2.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Edm.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.OData.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Newtonsoft.Json.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Core.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Data.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Services.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.Framework.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Data.SqlServerCe.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Extensions.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Formatting.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Primitives.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Spatial.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Helpers.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.WebHost.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Optimization.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Razor.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\WebGrease.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\AutoMapper.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\RedLock.StrongName.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\itextsharp.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EPPlus.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Linq.Dynamic.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ImageResizer.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Core.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Data.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Services.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Web.Framework.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Antlr3.Runtime.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServer.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\FluentValidation.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.Db.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MaxMind.GeoIP2.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Edm.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.OData.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\MiniProfiler.Mvc.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Newtonsoft.Json.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Extensions.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Formatting.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Net.Http.Primitives.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Spatial.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Helpers.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.Owin.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Http.WebHost.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Mvc.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Optimization.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.Razor.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\AutoMapper.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\itextsharp.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\EPPlus.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ImageResizer.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\cs\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\da\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fa\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fi\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\mk\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\nl\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\pl\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\pt\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\sv\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\tr\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-CN\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\de\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\es\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\fr\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\it\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ja\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ko\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\ru\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.App.config
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.csprojResolveAssemblyReference.cache
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Clients\IslamTraders\ISLAM_FURNITURE\Presentation\Nop.Web\obj\Debug\Nop.Web.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Web.dll.config
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Web.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Web.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Antlr3.Runtime.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Autofac.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\EntityFramework.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServer.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\FluentValidation.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\FluentValidation.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MaxMind.Db.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MaxMind.GeoIP2.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Data.Edm.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Data.OData.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MiniProfiler.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MiniProfiler.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Newtonsoft.Json.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Core.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Data.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Services.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Web.Framework.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Data.SqlServerCe.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Net.Http.Extensions.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Net.Http.Formatting.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Net.Http.Primitives.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Spatial.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Helpers.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Http.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Http.Owin.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Http.WebHost.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Mvc.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Optimization.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Razor.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.WebPages.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\WebGrease.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\AutoMapper.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\RedLock.StrongName.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\itextsharp.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\EPPlus.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Linq.Dynamic.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ImageResizer.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Core.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Data.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Services.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Web.Framework.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Nop.Admin.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Antlr3.Runtime.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Autofac.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\EntityFramework.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServer.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\FluentValidation.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MaxMind.Db.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MaxMind.GeoIP2.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Data.Edm.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Data.OData.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Owin.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MiniProfiler.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MiniProfiler.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\MiniProfiler.Mvc.pdb
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Newtonsoft.Json.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Net.Http.Extensions.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Net.Http.Formatting.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Net.Http.Primitives.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Spatial.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Helpers.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Http.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Http.Owin.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Http.WebHost.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Mvc.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Optimization.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.Razor.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.WebPages.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\AutoMapper.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\itextsharp.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\EPPlus.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ImageResizer.xml
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\cs\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\da\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\de\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\es\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\fa\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\fi\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\fr\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\it\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ko\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\mk\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\nl\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\pl\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\pt\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ru\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\sv\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\tr\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-CN\FluentValidation.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\de\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\es\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\fr\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\it\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ja\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ko\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\ru\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.App.config
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csprojResolveAssemblyReference.cache
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.dll
+C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Web.dll.config
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Web.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Web.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Antlr3.Runtime.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Autofac.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\EntityFramework.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServer.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\FluentValidation.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\FluentValidation.Mvc.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MaxMind.Db.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MaxMind.GeoIP2.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Data.Edm.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Data.OData.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Owin.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MiniProfiler.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MiniProfiler.Mvc.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Newtonsoft.Json.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Core.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Data.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Services.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Web.Framework.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Owin.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Data.SqlServerCe.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Net.Http.Extensions.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Net.Http.Formatting.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Net.Http.Primitives.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Spatial.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Helpers.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Http.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Http.Owin.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Http.WebHost.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Mvc.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Optimization.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Razor.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.WebPages.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\WebGrease.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\AutoMapper.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\RedLock.StrongName.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\itextsharp.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\EPPlus.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Linq.Dynamic.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ImageResizer.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Core.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Core.dll.config
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Data.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Data.dll.config
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Services.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Services.dll.config
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Web.Framework.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Web.Framework.dll.config
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Admin.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Antlr3.Runtime.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Autofac.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\EntityFramework.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServer.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\FluentValidation.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MaxMind.Db.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MaxMind.GeoIP2.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Data.Edm.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Data.OData.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Owin.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MiniProfiler.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MiniProfiler.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\MiniProfiler.Mvc.pdb
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Newtonsoft.Json.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Net.Http.Extensions.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Net.Http.Formatting.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Net.Http.Primitives.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Spatial.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Helpers.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Http.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Http.Owin.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Http.WebHost.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Mvc.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Optimization.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.Razor.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.WebPages.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\AutoMapper.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\itextsharp.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\EPPlus.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ImageResizer.xml
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\cs\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\da\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\de\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\es\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\fa\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\fi\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\fr\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\it\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ko\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\mk\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\nl\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\pl\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\pt\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ru\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\sv\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\tr\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-CN\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\de\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\es\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\fr\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\it\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ja\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ko\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\ru\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-Hans\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\bin\zh-Hant\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.App.config
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.CopyComplete
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.dll
+D:\DotBanglaSoft\Clients\IslamTraders\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Web.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Web.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Web.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Antlr3.Runtime.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Autofac.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\EntityFramework.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServer.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\FluentValidation.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\FluentValidation.Mvc.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MaxMind.Db.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MaxMind.GeoIP2.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Data.Edm.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Data.OData.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Owin.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MiniProfiler.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MiniProfiler.Mvc.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Newtonsoft.Json.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Core.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Data.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Services.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Web.Framework.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Owin.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Data.SqlServerCe.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Net.Http.Extensions.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Net.Http.Formatting.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Net.Http.Primitives.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Spatial.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Helpers.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Http.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Http.Owin.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Http.WebHost.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Mvc.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Optimization.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Razor.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.WebPages.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\WebGrease.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\AutoMapper.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\RedLock.StrongName.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\itextsharp.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\EPPlus.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Linq.Dynamic.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ImageResizer.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Core.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Core.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Data.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Data.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Services.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Services.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Web.Framework.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Web.Framework.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Antlr3.Runtime.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Autofac.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Autofac.Integration.Mvc.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\EntityFramework.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServer.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\EntityFramework.SqlServerCompact.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\FluentValidation.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MaxMind.Db.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MaxMind.GeoIP2.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Data.Edm.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Data.OData.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Data.Services.Client.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Owin.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.Web.RedisSessionStateProvider.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MiniProfiler.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MiniProfiler.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\MiniProfiler.Mvc.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Newtonsoft.Json.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\StackExchange.Redis.StrongName.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Net.Http.Extensions.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Net.Http.Formatting.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Net.Http.Primitives.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Spatial.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Helpers.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Http.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Http.Owin.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Http.WebHost.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Mvc.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Optimization.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.Razor.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.WebPages.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Deployment.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\System.Web.WebPages.Razor.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\AutoMapper.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Microsoft.WindowsAzure.Storage.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\itextsharp.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\EPPlus.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ImageResizer.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\cs\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\da\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\de\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\es\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\fa\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\fi\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\fr\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\it\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ko\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\mk\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\nl\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\pl\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\pt\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ru\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\sv\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\tr\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-CN\FluentValidation.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\de\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\es\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\fr\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\it\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ja\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ko\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\ru\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-Hans\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\zh-Hant\System.Spatial.resources.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.App.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.csproj.CopyComplete
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\obj\Debug\Nop.Web.pdb

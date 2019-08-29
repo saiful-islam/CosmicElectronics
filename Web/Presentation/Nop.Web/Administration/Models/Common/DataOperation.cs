@@ -26,7 +26,7 @@ namespace Nop.Admin.Models.Common
         }
         public DataTable GetDataTableAccounts(string _query)
         {
-            string strAccConn = "Data Source=SQL5030.site4now.net;Initial Catalog=DB_A367BD_IslamfurnitureAcc;Integrated Security=False;Persist Security Info=False;User ID=DB_A367BD_IslamfurnitureAcc_admin;Password=s01917282835;Connection Timeout=0;";
+            string strAccConn = "Data Source=SQL5045.site4now.net;Initial Catalog=DB_A367BD_CosmicElectronicsA;Integrated Security=False;Persist Security Info=False;User ID=DB_A367BD_CosmicElectronicsA_admin;Password=s01917282835;Connection Timeout=0;";
             SqlConnection _sqlConnection = new SqlConnection(strAccConn);
             DataTable dt = new DataTable();
             if (_sqlConnection.State == ConnectionState.Closed)

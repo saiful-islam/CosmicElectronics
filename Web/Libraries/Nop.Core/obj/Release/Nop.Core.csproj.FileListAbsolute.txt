@@ -58,3 +58,35 @@ C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.C
 C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\obj\Release\Nop.Core.csprojResolveAssemblyReference.cache
 C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\obj\Release\Nop.Core.dll
 C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Libraries\Nop.Core\obj\Release\Nop.Core.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Nop.Core.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Nop.Core.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Nop.Core.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Autofac.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Autofac.Integration.Mvc.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\AutoMapper.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Newtonsoft.Json.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\RedLock.StrongName.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\StackExchange.Redis.StrongName.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.Helpers.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.Mvc.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.Razor.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.WebPages.Deployment.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.WebPages.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.WebPages.Razor.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Autofac.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Autofac.Integration.Mvc.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\AutoMapper.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\Newtonsoft.Json.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\StackExchange.Redis.StrongName.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.Helpers.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.Mvc.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.Razor.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.WebPages.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.WebPages.Deployment.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\bin\Release\System.Web.WebPages.Razor.xml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\obj\Release\Nop.Core.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\obj\Release\Nop.Core.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\obj\Release\Nop.Core.csproj.CopyComplete
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\obj\Release\Nop.Core.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Libraries\Nop.Core\obj\Release\Nop.Core.pdb

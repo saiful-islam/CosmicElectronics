@@ -104,7 +104,7 @@ namespace IslamTraders_Accounts.Views.Payment
                 {
                     strQuery = @"insert into [dbo].[PaymentTransaction]
                 values(
-                        (select max(PaymentId)+1 from [dbo].[PaymentTransaction]),
+                        (select isnull(max(PaymentId),0)+1 from [dbo].[PaymentTransaction]),
                     '" + accountId + "','" + accountTypeId + "','" + paymentTypeId + "','" + payment + "',0,'" + DateTime.UtcNow + "','"+comment+"','False')";
                 }
                 else

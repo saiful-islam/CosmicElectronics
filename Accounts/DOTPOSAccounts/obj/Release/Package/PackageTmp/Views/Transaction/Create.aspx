@@ -47,16 +47,6 @@
         <tr>
             <td>
                 <br />
-                Payment ID
-            </td>
-            <td>
-                <br />
-                <asp:TextBox CssClass="form-control" ID="txtPaymentId" runat="server"></asp:TextBox>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <br />
                 Transaction Amount*&nbsp;&nbsp;
             </td>
             <td>

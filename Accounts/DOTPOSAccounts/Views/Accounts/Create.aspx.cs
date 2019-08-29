@@ -72,7 +72,7 @@ namespace IslamTraders_Accounts.Views.Accounts
                 {
                     strQuery = @"insert into [dbo].[Account]
                 values(
-                        (select max(Id)+1 from [dbo].[Account]),
+                        (select isnull(max(Id),0)+1 from [dbo].[Account]),
                     '" + name + "','" + mobile + "','" + address + "','" + desc + "','" + accountTypeId + "','True','False')";
                 }
                 else

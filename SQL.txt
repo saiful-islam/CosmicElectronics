@@ -1,0 +1,5 @@
+INSERT [dbo].[Discount] ( [Name], [DiscountTypeId], [UsePercentage], 
+[DiscountPercentage], [DiscountAmount], [MaximumDiscountAmount], [StartDateUtc], [EndDateUtc], [RequiresCouponCode], [CouponCode], [IsCumulative], [DiscountLimitationId], [LimitationTimes], [MaximumDiscountedQuantity], [AppliedToSubCategories])
+VALUES ( N'25%', 1, 1, 
+CAST(25.000 AS Decimal(18, 4)), CAST(0.0000 AS Decimal(18, 4)), 
+CAST(10000000000.0000 AS Decimal(18, 4)), NULL, NULL, 1, N'25%', 0, 0, 1, NULL, 0)

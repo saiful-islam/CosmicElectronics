@@ -12,3 +12,12 @@ C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\No
 C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csprojResolveAssemblyReference.cache
 C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.dll
 C:\D\OneDrive - IQVIA\Projects\DoTBanglaSoft\Projects\DotPOS\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csproj.App.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csproj.CopyComplete
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.pdb

@@ -58,15 +58,6 @@ namespace IslamTraders_Accounts.Views.Transaction {
         protected global::System.Web.UI.WebControls.DropDownList ddlAccount;
         
         /// <summary>
-        /// txtPaymentId control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtPaymentId;
-        
-        /// <summary>
         /// txtTransTotal control.
         /// </summary>
         /// <remarks>

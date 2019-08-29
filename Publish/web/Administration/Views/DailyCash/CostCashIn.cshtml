@@ -1,0 +1,55 @@
+﻿@using System.Data
+@{
+    string strQuery = @"select isnull(sum([CashIn]),0)
+                        from [dbo].[TotalCashIn]
+                        where CONVERT(date, [CashInDate])=CONVERT(date, GETUTCDATE());";
+    DataOperation _dataOperation = new DataOperation();
+    DataTable dtCashIn = _dataOperation.GetDataTable(strQuery);
+
+    strQuery = @"select isnull(sum([Cost]),0)
+                        from [dbo].[TotalCost]
+                        where CONVERT(date, [CostDate])=CONVERT(date, GETUTCDATE());";
+    DataTable dtCost = _dataOperation.GetDataTable(strQuery);
+
+    Html.SetActiveMenuItemSystemName("CostCashIn");
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Today Cash by Order</title>
+</head>
+<body>
+    <div>
+        <br />
+        <h4>Total Cost# @dtCost.Rows[0][0]/= &nbsp; taka</h4>
+        <h4>Total Cash In# @dtCashIn.Rows[0][0]/=&nbsp;taka</h4>
+        <h5>Daily Total Cash In</h5>
+        <div class="search-box store-search-box">
+            <div class="basic">
+                @using (Ajax.BeginForm("CashInput", "DailyCash",
+                    new AjaxOptions { }))
+                {
+                    <input type="text" class="search-box-text" id="txtCashIn" name="txtCashIn" placeholder="Enter Total Cash" />
+                    <input type="submit" value="Cash In" class="button-2 search-box-button" />
+                }
+
+            </div>
+        </div>
+        <h5>Daily Total Cost</h5>
+        <div class="search-box store-search-box">
+            <div class="basic">
+                @using (Ajax.BeginForm("CostInput", "DailyCash",
+                    new AjaxOptions { }))
+                {
+                    <input type="text" class="search-box-text" id="txtCost" name="txtCost" placeholder="Enter Total Cost" />
+                    <input type="submit" value="Cash In" class="button-2 search-box-button" />
+                }
+
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>

@@ -264,15 +264,13 @@ namespace Nop.Services.Common
                 var cellHeader = new PdfPCell(new Phrase(String.Format(_localizationService.GetResource("PDFInvoice.Order#", lang.Id), order.CustomOrderNumber), titleFont));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 //cellHeader.Phrase.Add(new Phrase(anchor));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Messrs Islam Furniture"), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("COSMIC ELECTRONICS & MOTORS"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("North side of Merchant Academy West side Gate , Hall Road, Raipur, Laxmipur."), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("East side of Raipur sub-registry office mosque, Raipur, Laxmipur."), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Messrs Islam Traders"), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("Proprietor"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Middle road between Jamuna Bank and Sonali Bank, Cayadat Emdad Miaji Road, Raipur, Laxmipur."), font));
-                cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Mobile# 01735004102"), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("Mobile# 01714-407431, 01930-010034"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 cellHeader.Phrase.Add(new Phrase(String.Format(_localizationService.GetResource("PDFInvoice.OrderDate", lang.Id), _dateTimeHelper.ConvertToUserTime(order.CreatedOnUtc, DateTimeKind.Utc).ToString("D", new CultureInfo(lang.LanguageCulture))), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
@@ -1027,7 +1025,7 @@ namespace Nop.Services.Common
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
 
                 //cellHeader.Phrase.Add(new Phrase(anchor));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Islam Traders / Islam Furniture"), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("COSMIC ELECTRONICS & MOTORS"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 cellHeader.Phrase.Add(new Phrase(String.Format(_localizationService.GetResource("PDFInvoice.OrderDate", lang.Id), _dateTimeHelper.ConvertToUserTime(order.CreatedOnUtc, DateTimeKind.Utc).ToString("D", new CultureInfo(lang.LanguageCulture))), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
@@ -1674,15 +1672,13 @@ namespace Nop.Services.Common
                 var cellHeader = new PdfPCell(new Phrase(String.Format("Delivery Challan# {0}", order.CustomOrderNumber), titleFont));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 //cellHeader.Phrase.Add(new Phrase(anchor));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Messrs Islam Furniture"), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("COSMIC ELECTRONICS & MOTORS"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("North side of Merchant Academy West side Gate , Hall Road, Raipur, Laxmipur."), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("East side of Raipur sub-registry office mosque, Raipur, Laxmipur."), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Messrs Islam Traders"), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("Proprietor"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Middle road between Jamuna Bank and Sonali Bank, Cayadat Emdad Miaji Road, Raipur, Laxmipur."), font));
-                cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Mobile# 01735004102"), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("Mobile# 01714-407431, 01930-010034"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 cellHeader.Phrase.Add(new Phrase(String.Format(_localizationService.GetResource("PDFInvoice.OrderDate", lang.Id), _dateTimeHelper.ConvertToUserTime(order.CreatedOnUtc, DateTimeKind.Utc).ToString("D", new CultureInfo(lang.LanguageCulture))), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));

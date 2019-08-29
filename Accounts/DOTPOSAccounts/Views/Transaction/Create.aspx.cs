@@ -47,7 +47,6 @@ namespace IslamTraders_Accounts.Views.Transaction
             ddlCategory3.SelectedValue = dt.Rows[0]["Category3Id"].ToString();
             Load_ddlAccount();
             ddlAccount.SelectedValue = dt.Rows[0]["AccountId"].ToString();
-            txtPaymentId.Text = dt.Rows[0]["PaymentId"]?.ToString() ?? "";
             txtTransComment.Text = dt.Rows[0]["TransComment"]?.ToString() ?? "";
             txtTransTotal.Text = dt.Rows[0]["TransTotal"].ToString();
         }
@@ -137,15 +136,14 @@ namespace IslamTraders_Accounts.Views.Transaction
                 string category2 = ddlCategory2.SelectedValue;
                 string category3 = ddlCategory3.SelectedValue;
                 string account = ddlAccount.SelectedValue;
-                string payment = txtPaymentId.Text.Trim()==string.Empty ? "null":txtPaymentId.Text.Trim();
                 string comment = txtTransComment.Text.Trim();
                 string total = txtTransTotal.Text.Trim()==string.Empty ? "null": txtTransTotal.Text.Trim();
                 if (transId == 0)
                 {
                     strQuery = @"insert into [dbo].[Transaction]
                 values(
-                        (select max(TransId)+1 from [dbo].[Transaction]),
-                    " + category1 + "," + category2 + "," + category3 + "," + account + "," + payment + "," + total +
+                        (select isnull(max(TransId),0)+1 from [dbo].[Transaction]),
+                    " + category1 + "," + category2 + "," + category3 + "," + account + "," + total +
                                       ",0,'" + DateTime.UtcNow + "','" + comment + "','FALSE')";
                 }
                 else
@@ -155,7 +153,6 @@ namespace IslamTraders_Accounts.Views.Transaction
                     strQuery += Environment.NewLine + " ,Category2Id= "+category2;
                     strQuery += Environment.NewLine + " ,Category3Id= "+category3;
                     strQuery += Environment.NewLine + " ,AccountId= " + account;
-                    strQuery += Environment.NewLine + " ,PaymentId= " + payment;
                     strQuery += Environment.NewLine + " ,TransTotal= " + total;
                     strQuery += Environment.NewLine + " ,TransComment= '" + comment+"'";
                     strQuery += Environment.NewLine + " Where TransId= " + transId + "";
