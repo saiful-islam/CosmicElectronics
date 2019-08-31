@@ -9,3 +9,15 @@ C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plu
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojResolveAssemblyReference.cache
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.USPS\Views\Configure.cshtml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.USPS\web.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.USPS\Description.txt
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.USPS\logo.jpg
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csproj.App.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojAssemblyReference.cache

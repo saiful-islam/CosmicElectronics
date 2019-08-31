@@ -1123,7 +1123,7 @@
     <Value>Fax number is required.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FirstName">
-    <Value>First name</Value>
+    <Value>Name</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FirstName.Required">
     <Value>First name is required.</Value>

@@ -475,24 +475,29 @@ namespace Nop.Services.Common
                 else
                 {
                     productsTable.SetWidths(_catalogSettings.ShowSkuOnProductDetailsPage
-                        ? new[] { 45, 15, 15, 10, 15 }
+                        ? new[] { 20, 40, 15, 10, 15 }
                         : new[] { 50, 20, 10, 20 });
                 }
+                //Company Name
+                var cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("Products.Manufacturer", lang.Id), font));
+                cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
+                cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                productsTable.AddCell(cellProductItem);
 
                 //product name
-                var cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.ProductName", lang.Id), font));
+                cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.ProductName", lang.Id), font));
                 cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
                 cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
                 productsTable.AddCell(cellProductItem);
 
                 //SKU
-                if (_catalogSettings.ShowSkuOnProductDetailsPage)
-                {
-                    cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.SKU", lang.Id), font));
-                    cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
-                    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
-                    productsTable.AddCell(cellProductItem);
-                }
+                //if (_catalogSettings.ShowSkuOnProductDetailsPage)
+                //{
+                //    cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.SKU", lang.Id), font));
+                //    cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
+                //    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                //    productsTable.AddCell(cellProductItem);
+                //}
 
                 //price
                 cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.ProductPrice", lang.Id), font));
@@ -523,6 +528,12 @@ namespace Nop.Services.Common
                     var pAttribTable = new PdfPTable(1);
                     pAttribTable.RunDirection = GetDirection(lang);
                     pAttribTable.DefaultCell.Border = Rectangle.NO_BORDER;
+
+                    //company
+                    var company = p.ProductManufacturers.FirstOrDefault();
+                    cellProductItem = new PdfPCell(new Phrase(company.Manufacturer.Name ?? String.Empty, font));
+                    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                    productsTable.AddCell(cellProductItem);
 
                     //product name
                     string name = p.GetLocalized(x => x.Name, lang.Id);
@@ -1230,9 +1241,14 @@ namespace Nop.Services.Common
                 else
                 {
                     productsTable.SetWidths(_catalogSettings.ShowSkuOnProductDetailsPage
-                        ? new[] { 45, 15, 15, 10, 15 }
+                        ? new[] { 20, 40, 15, 10, 15 }
                         : new[] { 50, 20, 10, 20 });
                 }
+                //Company Name
+                cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("Products.Manufacturer", lang.Id), font));
+                cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
+                cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                productsTable.AddCell(cellProductItem);
 
                 //product name
                 cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.ProductName", lang.Id), font));
@@ -1240,14 +1256,14 @@ namespace Nop.Services.Common
                 cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
                 productsTable.AddCell(cellProductItem);
 
-                //SKU
-                if (_catalogSettings.ShowSkuOnProductDetailsPage)
-                {
-                    cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.SKU", lang.Id), font));
-                    cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
-                    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
-                    productsTable.AddCell(cellProductItem);
-                }
+                ////SKU
+                //if (_catalogSettings.ShowSkuOnProductDetailsPage)
+                //{
+                //    cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.SKU", lang.Id), font));
+                //    cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
+                //    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                //    productsTable.AddCell(cellProductItem);
+                //}
 
                 //price
                 cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.ProductPrice", lang.Id), font));
@@ -1279,6 +1295,12 @@ namespace Nop.Services.Common
                     pAttribTable.RunDirection = GetDirection(lang);
                     pAttribTable.DefaultCell.Border = Rectangle.NO_BORDER;
 
+                    //company
+                    var company = p.ProductManufacturers.FirstOrDefault();
+                    cellProductItem = new PdfPCell(new Phrase(company.Manufacturer.Name ?? String.Empty, font));
+                    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                    productsTable.AddCell(cellProductItem);
+
                     //product name
                     string name = p.GetLocalized(x => x.Name, lang.Id);
                     pAttribTable.AddCell(new Paragraph(name, font));
@@ -1303,13 +1325,13 @@ namespace Nop.Services.Common
                     productsTable.AddCell(pAttribTable);
 
                     //SKU
-                    if (_catalogSettings.ShowSkuOnProductDetailsPage)
-                    {
-                        var sku = p.FormatSku(orderItem.AttributesXml, _productAttributeParser);
-                        cellProductItem = new PdfPCell(new Phrase(sku ?? String.Empty, font));
-                        cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
-                        productsTable.AddCell(cellProductItem);
-                    }
+                    //if (_catalogSettings.ShowSkuOnProductDetailsPage)
+                    //{
+                    //    var sku = p.FormatSku(orderItem.AttributesXml, _productAttributeParser);
+                    //    cellProductItem = new PdfPCell(new Phrase(sku ?? String.Empty, font));
+                    //    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                    //    productsTable.AddCell(cellProductItem);
+                    //}
 
                     //price
                     string unitPrice;

@@ -9,3 +9,15 @@ C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debu
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\Configure.cshtml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.App.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb

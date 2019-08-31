@@ -10,3 +10,16 @@ C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csprojResolveAssemblyReference.cache
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\Configure.cshtml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\ProductAddPopup.cshtml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csproj.App.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb

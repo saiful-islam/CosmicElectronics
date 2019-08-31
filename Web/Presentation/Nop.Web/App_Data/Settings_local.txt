@@ -1,2 +1,0 @@
-DataProvider: sqlserver
-DataConnectionString: Data Source=localhost\SQLEXPRESS;Initial Catalog=CosmicElectronics;Integrated Security=False;Persist Security Info=False;User ID=cosmic;Password=cosmic

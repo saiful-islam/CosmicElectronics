@@ -11,3 +11,17 @@ C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\ob
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojResolveAssemblyReference.cache
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
 C:\D\MyFolder\ISLAM_FURNITURE\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Description.txt
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\web.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.App.config
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojAssemblyReference.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb

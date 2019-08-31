@@ -1165,6 +1165,7 @@ namespace Nop.Web.Controllers
                 {
                     //new address
                     var model = new CheckoutBillingAddressModel();
+                    model.NewAddress.LastName = "#";
                     TryUpdateModel(model.NewAddress, "BillingNewAddress");
 
                     //custom address attributes
