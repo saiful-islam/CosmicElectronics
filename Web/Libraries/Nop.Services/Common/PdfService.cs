@@ -558,14 +558,14 @@ namespace Nop.Services.Common
                     }
                     productsTable.AddCell(pAttribTable);
 
-                    //SKU
-                    if (_catalogSettings.ShowSkuOnProductDetailsPage)
-                    {
-                        var sku = p.FormatSku(orderItem.AttributesXml, _productAttributeParser);
-                        cellProductItem = new PdfPCell(new Phrase(sku ?? String.Empty, font));
-                        cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
-                        productsTable.AddCell(cellProductItem);
-                    }
+                    ////SKU
+                    //if (_catalogSettings.ShowSkuOnProductDetailsPage)
+                    //{
+                    //    var sku = p.FormatSku(orderItem.AttributesXml, _productAttributeParser);
+                    //    cellProductItem = new PdfPCell(new Phrase(sku ?? String.Empty, font));
+                    //    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                    //    productsTable.AddCell(cellProductItem);
+                    //}
 
                     //price
                     string unitPrice;
@@ -1876,11 +1876,17 @@ namespace Nop.Services.Common
                 else
                 {
                     productsTable.SetWidths(_catalogSettings.ShowSkuOnProductDetailsPage
-                        ? new[] { 15,45, 15, 15 }
-                        : new[] { 10,50, 20});
+                        ? new[] { 15, 20, 40, 15 }
+                        : new[] { 10, 50, 20});
                 }
                 //SL
                 var cellProductItem = new PdfPCell(new Phrase("SL No", font));
+                cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
+                cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                productsTable.AddCell(cellProductItem);
+
+                //Company Name
+                cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("Products.Manufacturer", lang.Id), font));
                 cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
                 cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
                 productsTable.AddCell(cellProductItem);
@@ -1891,14 +1897,14 @@ namespace Nop.Services.Common
                 cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
                 productsTable.AddCell(cellProductItem);
 
-                //SKU
-                if (_catalogSettings.ShowSkuOnProductDetailsPage)
-                {
-                    cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.SKU", lang.Id), font));
-                    cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
-                    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
-                    productsTable.AddCell(cellProductItem);
-                }
+                ////SKU
+                //if (_catalogSettings.ShowSkuOnProductDetailsPage)
+                //{
+                //    cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.SKU", lang.Id), font));
+                //    cellProductItem.BackgroundColor = BaseColor.LIGHT_GRAY;
+                //    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                //    productsTable.AddCell(cellProductItem);
+                //}
 
                 //qty
                 cellProductItem = new PdfPCell(new Phrase(_localizationService.GetResource("PDFInvoice.ProductQuantity", lang.Id), font));
@@ -1930,6 +1936,12 @@ namespace Nop.Services.Common
                     cellProductItem.HorizontalAlignment = Element.ALIGN_LEFT;
                     productsTable.AddCell(cellProductItem);
 
+                    //company
+                    var company = p.ProductManufacturers.FirstOrDefault();
+                    cellProductItem = new PdfPCell(new Phrase(company.Manufacturer.Name ?? String.Empty, font));
+                    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                    productsTable.AddCell(cellProductItem);
+
                     //product name
                     string name = p.GetLocalized(x => x.Name, lang.Id);
                     pAttribTable.AddCell(new Paragraph(name, font));
@@ -1954,13 +1966,13 @@ namespace Nop.Services.Common
                     productsTable.AddCell(pAttribTable);
 
                     //SKU
-                    if (_catalogSettings.ShowSkuOnProductDetailsPage)
-                    {
-                        var sku = p.FormatSku(orderItem.AttributesXml, _productAttributeParser);
-                        cellProductItem = new PdfPCell(new Phrase(sku ?? String.Empty, font));
-                        cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
-                        productsTable.AddCell(cellProductItem);
-                    }
+                    //if (_catalogSettings.ShowSkuOnProductDetailsPage)
+                    //{
+                    //    var sku = p.FormatSku(orderItem.AttributesXml, _productAttributeParser);
+                    //    cellProductItem = new PdfPCell(new Phrase(sku ?? String.Empty, font));
+                    //    cellProductItem.HorizontalAlignment = Element.ALIGN_CENTER;
+                    //    productsTable.AddCell(cellProductItem);
+                    //}
 
                     ////price
                     //string unitPrice;

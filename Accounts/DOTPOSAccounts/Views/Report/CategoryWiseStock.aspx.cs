@@ -16,13 +16,14 @@ namespace IslamTraders_Accounts.Views.Report
         {
             if (!Page.IsPostBack)
             {
-             Load_ddlCategory();   
+                Load_ddlCategory();
+                Load_ddlManufacturer();
             }
         }
 
         protected void btnFilter_Click(object sender, EventArgs e)
         {
-            string strQuery = @"EXEC dbo.SP_CategoryWiseStock  @categoryId="+ddlCategory.SelectedValue;
+            string strQuery = @"EXEC dbo.SP_CategoryWiseStock  @categoryId="+ddlCategory.SelectedValue + ", @mnfId="+ddlManufacturer.SelectedValue;
             DataTable dt = _db.GetDataTable(strQuery);
             gvCategoryWiseStock.DataSource = dt;
             gvCategoryWiseStock.DataBind();
@@ -33,6 +34,13 @@ namespace IslamTraders_Accounts.Views.Report
             DataTable dt = _db.GetDataTable(strQuery);
             ddlCategory.DataSource = dt;
             ddlCategory.DataBind();
+        }
+        private void Load_ddlManufacturer()
+        {
+            string strQuery = @"EXEC dbo.SP_GETALLManufacturer ";
+            DataTable dt = _db.GetDataTable(strQuery);
+            ddlManufacturer.DataSource = dt;
+            ddlManufacturer.DataBind();
         }
     }
 }

@@ -16,7 +16,8 @@
         </tr>
     </table>
     <br />
-    <div class="panel panel-default">
+    <asp:Panel ID="pnlSalesCategory" runat="server"></asp:Panel>
+    <%--<div class="panel panel-default">
         <div class="panel-heading">
             <h3>Category: Cookeries</h3>
             <table class="table table-striped">
@@ -346,5 +347,5 @@
 
             </asp:GridView>
         </div>
-    </div>
+    </div>--%>
 </asp:Content>

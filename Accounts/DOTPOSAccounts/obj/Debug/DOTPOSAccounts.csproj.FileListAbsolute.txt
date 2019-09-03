@@ -261,7 +261,6 @@ D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\bin\Microsoft
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Twitter.xml
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.OAuth.xml
-D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\DOTPOSAccounts.csprojAssemblyReference.cache
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\DOTPOSAccounts.csproj.CoreCompileInputs.cache
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\DOTPOSAccounts.csproj.CopyComplete
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\IslamTraders_Accounts.dll

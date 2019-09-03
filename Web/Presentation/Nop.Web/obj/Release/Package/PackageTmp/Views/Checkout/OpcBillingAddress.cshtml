@@ -23,6 +23,10 @@
                         var addressLine = "";
                         addressLine += address.FirstName;
                         addressLine += " " + address.LastName;
+                        if (address.PhoneEnabled && !String.IsNullOrWhiteSpace(address.PhoneNumber))
+                        {
+                            addressLine += ", " + address.PhoneNumber;
+                        }
                         if (address.StreetAddressEnabled && !String.IsNullOrEmpty(address.Address1))
                         {
                             addressLine += ", " + address.Address1;
@@ -43,6 +47,7 @@
                         {
                             addressLine += ", " + address.CountryName;
                         }
+                        
                         //how should we render "FormattedCustomAddressAttributes" here?
                         <option value="@(address.Id)">@(addressLine)</option>
                     }
