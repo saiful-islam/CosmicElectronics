@@ -82,10 +82,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/02/2015 09:32:26</publishTime>
     </File>
     <File Include="bin/IslamTraders_Accounts.dll">
-      <publishTime>08/24/2019 23:08:43</publishTime>
+      <publishTime>09/04/2019 19:35:41</publishTime>
     </File>
     <File Include="bin/IslamTraders_Accounts.pdb">
-      <publishTime>08/24/2019 23:08:43</publishTime>
+      <publishTime>09/04/2019 19:35:41</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
       <publishTime>07/30/2013 16:57:30</publishTime>
@@ -208,7 +208,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/04/2018 21:29:32</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>12/16/2018 12:07:14</publishTime>
+      <publishTime>09/04/2019 15:11:52</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>02/04/2018 21:29:16</publishTime>
@@ -367,10 +367,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/03/2019 17:23:44</publishTime>
     </File>
     <File Include="Views/Report/CategoryWiseStock.aspx">
-      <publishTime>04/27/2018 16:58:34</publishTime>
+      <publishTime>09/04/2019 19:32:56</publishTime>
     </File>
     <File Include="Views/Report/CategoryWiseTotalSell.aspx">
-      <publishTime>06/13/2019 12:52:26</publishTime>
+      <publishTime>09/03/2019 22:22:16</publishTime>
     </File>
     <File Include="Views/Report/DueCollection.aspx">
       <publishTime>02/20/2018 17:14:40</publishTime>
@@ -397,7 +397,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/04/2018 21:29:30</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/24/2019 20:05:23</publishTime>
+      <publishTime>09/04/2019 19:43:52</publishTime>
     </File>
   </ItemGroup>
 </Project>

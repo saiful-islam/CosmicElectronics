@@ -265,3 +265,4 @@ D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\DOT
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\DOTPOSAccounts.csproj.CopyComplete
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\IslamTraders_Accounts.dll
 D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\IslamTraders_Accounts.pdb
+D:\DotBanglaSoft\Clients\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Debug\DOTPOSAccounts.csprojAssemblyReference.cache

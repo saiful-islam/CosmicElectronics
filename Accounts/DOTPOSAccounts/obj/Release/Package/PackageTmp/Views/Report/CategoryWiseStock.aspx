@@ -1,10 +1,17 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CategoryWiseStock.aspx.cs" Inherits="IslamTraders_Accounts.Views.Report.CategoryWiseStock" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h3>Category wise Stock</h3>
-
     <table>
         <tr>
-            <td>Sale Date&nbsp;
+            <td>Company(Manufacturer) Name&nbsp;
+            </td>
+            <td>
+                <asp:DropDownList DataTextField="Name" DataValueField="Id" CssClass="form-control" ID="ddlManufacturer" runat="server"></asp:DropDownList>
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>Category Name&nbsp;
             </td>
             <td>
                 <asp:DropDownList DataTextField="Name" DataValueField="Id" CssClass="form-control" ID="ddlCategory" runat="server"></asp:DropDownList>
@@ -18,6 +25,7 @@
     <asp:GridView ID="gvCategoryWiseStock" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table">
         <AlternatingRowStyle BackColor="White" />
         <Columns>
+            <asp:BoundField DataField="Manufacturer" HeaderText="Manufacturer" />
             <asp:BoundField DataField="Category" HeaderText="Category" />
             <asp:BoundField DataField="Sku" HeaderText="Sku" />
             <asp:BoundField DataField="Product" HeaderText="Product" />
