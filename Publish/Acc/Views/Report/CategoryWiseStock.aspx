@@ -1,4 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="CategoryWiseStock.aspx.cs" Inherits="IslamTraders_Accounts.Views.Report.CategoryWiseStock" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h3>Category wise Stock</h3>
     <table>
@@ -8,8 +9,7 @@
             <td>
                 <asp:DropDownList DataTextField="Name" DataValueField="Id" CssClass="form-control" ID="ddlManufacturer" runat="server"></asp:DropDownList>
             </td>
-            <td>
-                &nbsp;&nbsp;&nbsp;
+            <td>&nbsp;&nbsp;&nbsp;
             </td>
             <td>Category Name&nbsp;
             </td>

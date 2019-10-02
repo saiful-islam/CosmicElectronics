@@ -4,6 +4,9 @@ Pass: admin@123456
 Name: sales@cosmicelectronics.com
 Pass: sales@12345
 
+Name: sales2@cosmicelectronics.com
+Pass: sales2@12345
+
 Name: dealers@cosmicelectronics.com
 Pass: dealers@123456
 

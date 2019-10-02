@@ -78,6 +78,7 @@
                                 <li><a runat="server" href="~/Views/Report/CategoryWiseProfit">Category Wise Profit</a></li>
                                 <li><a runat="server" href="~/Views/Report/DueCollection">Due Collection</a></li>
                                 <li><a runat="server" href="~/Views/Report/CategoryWiseStock">Category Wise Product Stock</a></li>
+                                <li><a runat="server" href="~/Views/Report/StockEntryReport">Stock Entry Report</a></li>
                                 <li><a runat="server" href="~/Views/Report/CategoryWiseSales">Category Wise Order and Cash</a></li>
                                 <li><a runat="server" href="~/Views/Report/SendSMS">Send SMS</a></li>
                             </ul>

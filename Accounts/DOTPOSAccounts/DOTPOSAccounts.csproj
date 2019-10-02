@@ -232,6 +232,7 @@
     <Content Include="Views\Report\CategoryWiseTotalSell.aspx" />
     <Content Include="Views\Report\DueCollection.aspx" />
     <Content Include="Views\Report\SendSMS.aspx" />
+    <Content Include="Views\Report\StockEntryReport.aspx" />
     <Content Include="Views\Report\TransationByCategory.aspx" />
     <Content Include="Views\Transaction\Create.aspx" />
     <Content Include="Views\Transaction\Index.aspx" />
@@ -516,6 +517,13 @@
     </Compile>
     <Compile Include="Views\Report\SendSMS.aspx.designer.cs">
       <DependentUpon>SendSMS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Report\StockEntryReport.aspx.cs">
+      <DependentUpon>StockEntryReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Report\StockEntryReport.aspx.designer.cs">
+      <DependentUpon>StockEntryReport.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Report\TransationByCategory.aspx.cs">
       <DependentUpon>TransationByCategory.aspx</DependentUpon>
