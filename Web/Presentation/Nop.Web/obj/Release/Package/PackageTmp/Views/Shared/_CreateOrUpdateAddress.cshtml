@@ -33,18 +33,20 @@
 @Html.HiddenFor(model => model.Id)
 <div class="edit-address">
     <div class="inputs">
-        @Html.LabelFor(model => model.FirstName, new { }, ":")
-            @Html.EditorFor(model => model.FirstName)
+        @*@Html.LabelFor(model => model.FirstName, new { }, ":")*@
+        <label for="BillingNewAddress_FirstName"> Code:</label>
+        @Html.EditorFor(model => model.FirstName)
         @Html.RequiredHint()
         @Html.ValidationMessageFor(model => model.FirstName)
     </div>
-    @*<div class="inputs" >
-        @Html.LabelFor(model => model.LastName, new { }, ":")
-            @Html.EditorFor(model => model.LastName)
-        @Html.RequiredHint()
-        @Html.ValidationMessageFor(model => model.LastName)
+    <div class="inputs">
+        <label for="BillingNewAddress_LastName"> Name:</label>
+               @*@Html.LabelFor(model => model.LastName, new { }, ":")*@
+               @Html.EditorFor(model => model.LastName)
+               @Html.RequiredHint()
+               @Html.ValidationMessageFor(model => model.LastName)
 
-    </div>*@
+    </div>
     <div class="inputs">
         @Html.LabelFor(model => model.Email, new { }, ":")
             @Html.EditorFor(model => model.Email)

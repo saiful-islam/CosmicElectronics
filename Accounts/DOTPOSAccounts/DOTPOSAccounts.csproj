@@ -223,6 +223,7 @@
     <Content Include="Views\Payment\Create.aspx" />
     <Content Include="Views\Payment\Due.aspx" />
     <Content Include="Views\Payment\DueHistory.aspx" />
+    <Content Include="Views\Payment\OrderDue.aspx" />
     <Content Include="Views\Payment\Payment.aspx" />
     <Content Include="Views\Payment\PaymentHistory.aspx" />
     <Content Include="Views\Report\CategoryWiseDue.aspx" />
@@ -454,6 +455,13 @@
     </Compile>
     <Compile Include="Views\Payment\DueHistory.aspx.designer.cs">
       <DependentUpon>DueHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Payment\OrderDue.aspx.cs">
+      <DependentUpon>OrderDue.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Payment\OrderDue.aspx.designer.cs">
+      <DependentUpon>OrderDue.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Payment\Payment.aspx.cs">
       <DependentUpon>Payment.aspx</DependentUpon>

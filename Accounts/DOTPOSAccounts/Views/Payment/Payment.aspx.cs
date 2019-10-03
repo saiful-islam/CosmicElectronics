@@ -16,12 +16,20 @@ namespace IslamTraders_Accounts.Views.Payment
         {
             if (!Page.IsPostBack)
             {
+                LoadAccountType();
                 LoadGrid();
             }
         }
+        private void LoadAccountType()
+        {
+            string query = "EXEC [dbo].[SP_AccountType]";
+            DataTable dt = _db.GetDataTable(query);
+            ddlAccountType.DataSource = dt;
+            ddlAccountType.DataBind();
+        }
         private void LoadGrid()
         {
-            string query = "EXEC [dbo].[SP_PaymentDueByAccount] @PaymentType=2";
+            string query = "EXEC [dbo].[SP_PaymentDueByAccountFilter] @PaymentType=2,@accName='" + txtFilter.Text.Trim() + "', @accountTypeId=" + ddlAccountType.SelectedValue;
             DataTable dt = _db.GetDataTable(query);
             gvPaymentList.DataSource = dt;
             gvPaymentList.DataBind();
@@ -29,7 +37,7 @@ namespace IslamTraders_Accounts.Views.Payment
 
         protected void btnFilter_Click(object sender, EventArgs e)
         {
-            string query = "EXEC [dbo].[SP_PaymentDueByAccountFilter] @PaymentType=2,@accName='" + txtFilter.Text.Trim() + "'";
+            string query = "EXEC [dbo].[SP_PaymentDueByAccountFilter] @PaymentType=2,@accName='" + txtFilter.Text.Trim() + "', @accountTypeId="+ddlAccountType.SelectedValue;
             DataTable dt = _db.GetDataTable(query);
             gvPaymentList.DataSource = dt;
             gvPaymentList.DataBind();

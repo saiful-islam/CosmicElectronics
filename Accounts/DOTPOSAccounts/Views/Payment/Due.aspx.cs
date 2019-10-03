@@ -19,7 +19,7 @@ namespace IslamTraders_Accounts.Views.Payment
                 LoadGrid();
             }
         }
-
+        
         private void LoadGrid()
         {
             string query = "EXEC [dbo].[SP_PaymentDueByAccount] @PaymentType=1";
@@ -34,23 +34,6 @@ namespace IslamTraders_Accounts.Views.Payment
             DataTable dt = _db.GetDataTable(query);
             gvDueList.DataSource = dt;
             gvDueList.DataBind();
-        }
-
-        protected void gvDueList_RowDeleting(object sender, GridViewDeleteEventArgs e)
-        {
-            string strQuery = "";
-            string paymentId = gvDueList.Rows[e.RowIndex].Cells[0].Text;
-            strQuery = " update [dbo].[PaymentTransaction] ";
-            strQuery += Environment.NewLine + " set IsDeleted= 'True'";
-            strQuery += Environment.NewLine + " Where PaymentId= " + paymentId;
-            _db.ExecuteNonQuery(strQuery);
-            Response.Redirect("Index", true);
-        }
-
-        protected void gvDueList_RowEditing(object sender, GridViewEditEventArgs e)
-        {
-            string paymentId = gvDueList.Rows[e.NewEditIndex].Cells[0].Text;
-            Response.Redirect("Create.aspx?id=" + paymentId, true);
         }
     }
 }

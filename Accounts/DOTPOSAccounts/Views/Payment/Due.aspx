@@ -11,13 +11,14 @@
             <td>
                 <asp:TextBox CssClass="form-control" ID="txtFilter" runat="server"></asp:TextBox>                
             </td>
+            
             <td>
                 <asp:Button CssClass="btn btn-primary" ID="btnFilter" runat="server" Text="Apply" OnClick="btnFilter_Click" />
             </td>
         </tr>
     </table>
     <br/>
-    <asp:GridView ID="gvDueList" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table" OnRowDeleting="gvDueList_RowDeleting" OnRowEditing="gvDueList_RowEditing">
+    <asp:GridView ID="gvDueList" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table">
         <AlternatingRowStyle BackColor="White" />
         <Columns>
             <%--<asp:BoundField DataField="PaymentId" HeaderText="PaymentId" />--%>

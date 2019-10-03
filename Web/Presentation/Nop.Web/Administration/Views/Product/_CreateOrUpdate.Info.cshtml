@@ -5,6 +5,7 @@
 @using System.Text;
 @using Nop.Services
 @using Nop.Services.Stores
+@using System.Data;
 
 @{
     var stores = EngineContext.Current.Resolve<IStoreService>().GetAllStores();
@@ -333,7 +334,7 @@
             $('#pnlLowStockActivity').hide();
             $('#pnlNotifyForQuantityBelow').show();
             $('#pnlBackorders').hide();
-            
+
 
             var selectedBackorderModeId = $("#@Html.FieldIdFor(model => model.BackorderModeId)").val();
             if (selectedBackorderModeId == noBackordersId) {
@@ -525,10 +526,24 @@
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.Sku)
                         </div>
-                        <div class="col-md-9">
-                            @Html.NopEditorFor(model => model.Sku)
-                            @Html.ValidationMessageFor(model => model.Sku)
-                        </div>
+                        @if (Model.Sku == string.Empty)
+                        {
+                            <div class="col-md-9">
+                                @{
+                                    string query = "select (isnull(max(cast(SKU as int)),0) +1) as SKU from [dbo].[Product]";
+                                    DataOperation obj = new DataOperation();
+                                    DataTable dataTable = obj.GetDataTable(query);
+                                }
+                                @Html.TextBoxFor(model => model.Sku, new { @Value = dataTable.Rows[0][0].ToString(), @readonly = "readonly" })
+                                @Html.ValidationMessageFor(model => model.Sku)
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="col-md-9">
+                                @Html.TextBoxFor(model => model.Sku, new { @readonly = "readonly" })
+                            </div>
+                        }
                     </div>
                     @if (Model.Id > 0)
                     {
@@ -574,7 +589,7 @@
                             @Html.ValidationMessageFor(model => model.ProductTemplateId)
                         </div>
                     </div>
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.VisibleIndividually ? null : "advanced-setting")">
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.VisibleIndividually ? null : "advanced-setting")">
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.VisibleIndividually)
                         </div>
@@ -585,76 +600,76 @@
                     </div>
 
                     @(Html.LocalizedEditor<ProductModel, ProductLocalizedModel>("product-info-localized",
-                    @<div>
-                        <div class="form-group">
-                            <div class="col-md-3">
-                                @Html.NopLabelFor(model => model.Locales[item].Name)
-                            </div>
-                            <div class="col-md-9">
-                                @Html.NopEditorFor(model => model.Locales[item].Name)
-                                @Html.ValidationMessageFor(model => model.Locales[item].Name)
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="col-md-3">
-                                @Html.NopLabelFor(model => model.Locales[item].ShortDescription)
-                            </div>
-                            <div class="col-md-9">
-                                @Html.NopTextAreaFor(model => model.Locales[item].ShortDescription)
-                                @Html.ValidationMessageFor(model => model.Locales[item].ShortDescription)
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="col-md-3">
-                                @Html.NopLabelFor(model => model.Locales[item].FullDescription)
-                            </div>
-                            <div class="col-md-9">
-                                @Html.EditorFor(model => model.Locales[item].FullDescription, "RichEditor")
-                                @Html.ValidationMessageFor(model => model.Locales[item].FullDescription)
-                            </div>
-                        </div>
-                        @Html.HiddenFor(model => model.Locales[item].LanguageId)
-                    </div>
-                            ,@<div>
-                        <div class="form-group">
-                            <div class="col-md-3">
-                                @Html.NopLabelFor(model => model.Name)
-                            </div>
-                            <div class="col-md-9">
-                                @Html.NopEditorFor(model => model.Name, required: true)
-                                @Html.ValidationMessageFor(model => model.Name)
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="col-md-3">
-                                @Html.NopLabelFor(model => model.ShortDescription)
-                            </div>
-                            <div class="col-md-9">
-                                @Html.NopTextAreaFor(x => x.ShortDescription)
-                                @Html.ValidationMessageFor(model => model.ShortDescription)
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <div class="col-md-3">
-                                @Html.NopLabelFor(model => model.FullDescription)
-                            </div>
-                            <div class="col-md-9">
-                                @Html.EditorFor(x => x.FullDescription, "RichEditor")
-                                @Html.ValidationMessageFor(model => model.FullDescription)
-                            </div>
-                        </div>
-                    </div>
-                            ))
-                    @*<div class="form-group">
+                                                    @<div>
+                                                        <div class="form-group">
+                                                            <div class="col-md-3">
+                                                                @Html.NopLabelFor(model => model.Locales[item].Name)
+                                                            </div>
+                                                            <div class="col-md-9">
+                                                                @Html.NopEditorFor(model => model.Locales[item].Name)
+                                                                @Html.ValidationMessageFor(model => model.Locales[item].Name)
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-group">
+                                                            <div class="col-md-3">
+                                                                @Html.NopLabelFor(model => model.Locales[item].ShortDescription)
+                                                            </div>
+                                                            <div class="col-md-9">
+                                                                @Html.NopTextAreaFor(model => model.Locales[item].ShortDescription)
+                                                                @Html.ValidationMessageFor(model => model.Locales[item].ShortDescription)
+                                                            </div>
+                                                        </div>
+                                                        <div class="form-group">
+                                                            <div class="col-md-3">
+                                                                @Html.NopLabelFor(model => model.Locales[item].FullDescription)
+                                                            </div>
+                                                            <div class="col-md-9">
+                                                                @Html.EditorFor(model => model.Locales[item].FullDescription, "RichEditor")
+                                                                @Html.ValidationMessageFor(model => model.Locales[item].FullDescription)
+                                                            </div>
+                                                        </div>
+                                                        @Html.HiddenFor(model => model.Locales[item].LanguageId)
+                                                    </div>
+,@<div>
+                    <div class="form-group">
                         <div class="col-md-3">
-                            @Html.NopLabelFor(model => model.Sku)
+                            @Html.NopLabelFor(model => model.Name)
                         </div>
                         <div class="col-md-9">
-                            @Html.NopEditorFor(model => model.Sku)
-                            @Html.ValidationMessageFor(model => model.Sku)
+                            @Html.NopEditorFor(model => model.Name, required: true)
+                            @Html.ValidationMessageFor(model => model.Name)
                         </div>
-                    </div>*@
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.Published ? null : "advanced-setting")">
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.ShortDescription)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.NopTextAreaFor(x => x.ShortDescription)
+                            @Html.ValidationMessageFor(model => model.ShortDescription)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-3">
+                            @Html.NopLabelFor(model => model.FullDescription)
+                        </div>
+                        <div class="col-md-9">
+                            @Html.EditorFor(x => x.FullDescription, "RichEditor")
+                            @Html.ValidationMessageFor(model => model.FullDescription)
+                        </div>
+                    </div>
+                </div>
+))
+                    @*<div class="form-group">
+            <div class="col-md-3">
+                @Html.NopLabelFor(model => model.Sku)
+            </div>
+            <div class="col-md-9">
+                @Html.NopEditorFor(model => model.Sku)
+                @Html.ValidationMessageFor(model => model.Sku)
+            </div>
+        </div>*@
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.Published ? null : "advanced-setting")">
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.Published)
                         </div>
@@ -663,7 +678,7 @@
                             @Html.ValidationMessageFor(model => model.Published)
                         </div>
                     </div>
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.ProductTags ? null : "advanced-setting")">
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.ProductTags ? null : "advanced-setting")">
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.ProductTags)
                         </div>
@@ -681,7 +696,7 @@
                             @Html.ValidationMessageFor(model => model.Gtin)
                         </div>
                     </div>
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.ManufacturerPartNumber ? null : "advanced-setting")">
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.ManufacturerPartNumber ? null : "advanced-setting")">
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.ManufacturerPartNumber)
                         </div>
@@ -690,7 +705,7 @@
                             @Html.ValidationMessageFor(model => model.ManufacturerPartNumber)
                         </div>
                     </div>
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.ShowOnHomePage ? null : "advanced-setting")" @(Model.IsLoggedInAsVendor ? Html.Raw("style='display: none;'") : null)>
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.ShowOnHomePage ? null : "advanced-setting")" @(Model.IsLoggedInAsVendor ? Html.Raw("style='display: none;'") : null)>
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.ShowOnHomePage)
                         </div>
@@ -708,7 +723,7 @@
                             @Html.ValidationMessageFor(model => model.DisplayOrder)
                         </div>
                     </div>
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.AllowCustomerReviews ? null : "advanced-setting")">
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.AllowCustomerReviews ? null : "advanced-setting")">
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.AllowCustomerReviews)
                         </div>
@@ -717,7 +732,7 @@
                             @Html.ValidationMessageFor(model => model.AllowCustomerReviews)
                         </div>
                     </div>
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.AvailableStartDate ? null : "advanced-setting")">
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.AvailableStartDate ? null : "advanced-setting")">
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.AvailableStartDateTimeUtc)
                         </div>
@@ -726,7 +741,7 @@
                             @Html.ValidationMessageFor(model => model.AvailableStartDateTimeUtc)
                         </div>
                     </div>
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.AvailableEndDate ? null : "advanced-setting")">
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.AvailableEndDate ? null : "advanced-setting")">
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.AvailableEndDateTimeUtc)
                         </div>
@@ -735,7 +750,7 @@
                             @Html.ValidationMessageFor(model => model.AvailableEndDateTimeUtc)
                         </div>
                     </div>
-                    <div style="display:none"  class="form-group @(Model.ProductEditorSettingsModel.MarkAsNew ? null : "advanced-setting")">
+                    <div style="display:none" class="form-group @(Model.ProductEditorSettingsModel.MarkAsNew ? null : "advanced-setting")">
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.MarkAsNew)
                         </div>
@@ -1328,8 +1343,8 @@
                         </button>
                         <input type="submit" id="btnRefreshTierPrices" style="display: none" />
                         <script type="text/javascript">
-                            $(document).ready(function() {
-                                $('#btnRefreshTierPrices').click(function() {
+                            $(document).ready(function () {
+                                $('#btnRefreshTierPrices').click(function () {
                                     $("#tierprices-grid").data('kendoGrid').dataSource.read();
                                     //return false to don't reload a page
                                     return false;
@@ -1475,8 +1490,8 @@
                         </button>
                         <input type="submit" id="btnRefreshAssociatedProducts" style="display: none" />
                         <script type="text/javascript">
-                            $(document).ready(function() {
-                                $('#btnRefreshAssociatedProducts').click(function() {
+                            $(document).ready(function () {
+                                $('#btnRefreshAssociatedProducts').click(function () {
                                     //refresh grid
                                     var grid = $("#associatedproducts-grid").data('kendoGrid');
                                     grid.dataSource.read();
@@ -1500,7 +1515,7 @@
                     @T("Admin.Catalog.Products.Inventory")
                 </div>
                 <div class="panel-body">
-                    <div style="display:none;"  class="form-group">
+                    <div style="display:none;" class="form-group">
                         <div class="@leftColumnClass">
                             @Html.NopLabelFor(model => model.ManageInventoryMethodId)
                         </div>
@@ -1540,7 +1555,7 @@
                     <div class="form-group @(Model.ProductEditorSettingsModel.UseMultipleWarehouses ? null : "advanced-setting")" id="pnlMultipleWarehouses">
                         <div class="col-md-12" style="overflow-x: auto;">
                             @if (Model.ProductWarehouseInventoryModels.Count > 0)
-            {
+                            {
                                 <table class="table table-hover table-bordered text-center">
                                     <thead>
                                         <tr>
@@ -1960,7 +1975,7 @@
                     </div>
                 </div>
             </div>
-            <div  class="panel panel-default @(Model.ProductEditorSettingsModel.RequireOtherProductsAddedToTheCart ? null : "advanced-setting")" id="group-required-other-products">
+            <div class="panel panel-default @(Model.ProductEditorSettingsModel.RequireOtherProductsAddedToTheCart ? null : "advanced-setting")" id="group-required-other-products">
                 <div class="panel-heading">
                     @T("Admin.Catalog.Products.RequireOtherProducts")
                 </div>
@@ -1985,8 +2000,8 @@
                                     <span class="input-group-btn">
                                         <input type="submit" id="btnRefreshRequiredProducts" style="display: none" />
                                         <script type="text/javascript">
-                                            $(document).ready(function() {
-                                                $('#btnRefreshRequiredProducts').click(function() {
+                                            $(document).ready(function () {
+                                                $('#btnRefreshRequiredProducts').click(function () {
                                                     //refresh product list
                                                     loadRequiredProductFriendlyNames();
 
@@ -2138,8 +2153,8 @@
                         </button>
                         <input type="submit" id="btnRefreshRelatedProducts" style="display: none" />
                         <script type="text/javascript">
-                            $(document).ready(function() {
-                                $('#btnRefreshRelatedProducts').click(function() {
+                            $(document).ready(function () {
+                                $('#btnRefreshRelatedProducts').click(function () {
                                     //refresh grid
                                     var grid = $("#relatedproducts-grid").data('kendoGrid');
                                     grid.dataSource.read();
@@ -2243,8 +2258,8 @@
                         </button>
                         <input type="submit" id="btnRefreshCrossSellProducts" style="display: none" />
                         <script type="text/javascript">
-                            $(document).ready(function() {
-                                $('#btnRefreshCrossSellProducts').click(function() {
+                            $(document).ready(function () {
+                                $('#btnRefreshCrossSellProducts').click(function () {
                                     //refresh grid
                                     var grid = $("#crosssellproducts-grid").data('kendoGrid');
                                     grid.dataSource.read();
