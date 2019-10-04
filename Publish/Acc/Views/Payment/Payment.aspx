@@ -23,11 +23,13 @@
     <asp:GridView ID="gvPaymentList" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table">
         <AlternatingRowStyle BackColor="White" />
         <Columns>
-            <asp:BoundField DataField="Account" HeaderText="Account" />
-            <asp:BoundField DataField="AccountType" HeaderText="Account Type" />
-            <asp:BoundField DataField="Payment" HeaderText="Payment" />
-            <asp:BoundField DataField="TotalPaid" HeaderText="TotalPaid" />
-            <asp:BoundField DataField="Payment_Due" HeaderText="Due" />
+            <asp:BoundField DataField="Code" HeaderText="Code" />
+            <asp:BoundField DataField="Name" HeaderText="Name" />
+            <asp:BoundField DataField="Address" HeaderText="Address" />
+            <asp:BoundField DataField="Mobile" HeaderText="Mobile"/>
+            <asp:BoundField DataField="Payment" HeaderText="Order Total" />
+            <asp:BoundField DataField="TotalPaid" HeaderText="Total Paid" />
+            <asp:BoundField DataField="Payment_Due" HeaderText="Due" />		
         </Columns>
 
         <EditRowStyle BackColor="#2461BF" />
