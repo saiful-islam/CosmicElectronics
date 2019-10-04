@@ -12,24 +12,22 @@
                 <asp:TextBox CssClass="form-control" ID="txtFilter" runat="server"></asp:TextBox>                
             </td>
             <td>
+                <asp:DropDownList DataTextField="Name" DataValueField="Id" CssClass="form-control" ID="ddlAccountType" runat="server"></asp:DropDownList>
+            </td>
+            <td>
                 <asp:Button CssClass="btn btn-primary" ID="btnFilter" runat="server" Text="Apply" OnClick="btnFilter_Click" />
             </td>
         </tr>
     </table>
     <br/>
-    <asp:GridView ID="gvPaymentList" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table" OnRowDeleting="gvPaymentList_RowDeleting" OnRowEditing="gvPaymentList_RowEditing">
+    <asp:GridView ID="gvPaymentList" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table">
         <AlternatingRowStyle BackColor="White" />
         <Columns>
-            <%--<asp:BoundField DataField="PaymentId" HeaderText="PaymentId" />--%>
             <asp:BoundField DataField="Account" HeaderText="Account" />
             <asp:BoundField DataField="AccountType" HeaderText="Account Type" />
             <asp:BoundField DataField="Payment" HeaderText="Payment" />
             <asp:BoundField DataField="TotalPaid" HeaderText="TotalPaid" />
             <asp:BoundField DataField="Payment_Due" HeaderText="Due" />
-            <%--<asp:BoundField DataField="PaymentDate" HeaderText="Date" />
-            <asp:BoundField DataField="Comment" HeaderText="Comment" />
-            <asp:CommandField ShowEditButton="True" />
-            <asp:CommandField ShowDeleteButton="True" />--%>
         </Columns>
 
         <EditRowStyle BackColor="#2461BF" />

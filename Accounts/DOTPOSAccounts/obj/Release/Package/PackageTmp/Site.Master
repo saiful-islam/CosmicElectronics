@@ -67,6 +67,7 @@
                                 <li><a runat="server" href="~/Views/Payment/PaymentHistory">Payment History</a></li>
                                 <li><a runat="server" href="~/Views/Payment/Due">Due</a></li>
                                 <li><a runat="server" href="~/Views/Payment/DueHistory">Due History</a></li>
+                                <li><a runat="server" href="~/Views/Payment/OrderDue">Order Due</a></li>
                             </ul>
                         </li>
                         <li>

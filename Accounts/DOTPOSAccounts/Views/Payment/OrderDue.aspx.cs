@@ -37,27 +37,54 @@ namespace IslamTraders_Accounts.Views.Payment
         }
         private void LoadGrid()
         {
+            string filter = txtFilter.Text.Trim();
             string query = @"select a.Description as Code,a.Name, 
 	                                a.Address,a.Mobile
                             from [dbo].[Account] a
-                            where a.AccountTypeId="+ ddlAccountType.SelectedValue;
+                            where (a.Description like '%"+ filter + "%' or a.Mobile like '%" + filter + "%' or a.Name like '%" + filter + "%') and  a.AccountTypeId=" + ddlAccountType.SelectedValue;
             DataTable dtAccounts = _db.GetDataTable(query);
 
             query = " EXEC dbo.SP_GET_CUSTOMER_ORDER";
             DataTable dtSales = _nop.GetDataTable(query);
 
-            DataTable result = FullOuterJoinDataTables(dtAccounts, dtSales);
-
-            gvPaymentList.DataSource = result;
+            ///DataTable result = FullOuterJoinDataTables(dtAccounts, dtSales);
+            var Result = from Leftrow in dtAccounts.AsEnumerable()
+                         join Rightrow in dtSales.AsEnumerable() on Leftrow["Code"] equals Rightrow["Code"]
+                         //into temp
+                         //from r in temp.DefaultIfEmpty()
+                         select new
+                         {
+                             Code = Leftrow["Code"],
+                             Name = Leftrow["Name"],
+                             Address = Leftrow["Address"],
+                             Mobile = Leftrow["Mobile"],
+                             OrderTotal = Rightrow["OrderTotal"],
+                             Paid = Rightrow["Paid"],
+                             DUE = Rightrow["DUE"],
+                             OrderId = Rightrow["OrderId"]
+                             //Paid = r != null ? r["Paid"] : 0,
+                             //DUE = r != null ? r["DUE"] : 0,
+                             //OrderId = r != null ? r["OrderId"] : 0
+                         };
+            
+            gvPaymentList.DataSource = Result;
             gvPaymentList.DataBind();
+
+            decimal paid=0, due = 0, total = 0;
+            foreach(var row in Result)
+            {
+                total += (decimal)row.OrderTotal;
+                paid += (decimal)row.Paid;
+                due += (decimal)row.DUE;
+            }
+            txtOrderTotal.Text = total.ToString();
+            txtPaid.Text = paid.ToString();
+            txtDue.Text = due.ToString();
         }
 
         protected void btnFilter_Click(object sender, EventArgs e)
         {
-            string query = "EXEC [dbo].[SP_PaymentDueByAccountFilter] @PaymentType=2,@accName='" + txtFilter.Text.Trim() + "', @accountTypeId=" + ddlAccountType.SelectedValue;
-            DataTable dt = _db.GetDataTable(query);
-            gvPaymentList.DataSource = dt;
-            gvPaymentList.DataBind();
+            LoadGrid();
         }
         DataTable FullOuterJoinDataTables(params DataTable[] datatables) // supports as many datatables as you need.
         {

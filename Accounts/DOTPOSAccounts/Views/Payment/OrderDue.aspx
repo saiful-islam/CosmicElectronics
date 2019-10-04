@@ -44,4 +44,26 @@
         <SortedDescendingHeaderStyle BackColor="#4870BE" />
 
     </asp:GridView>
+    <table>
+        <tr>
+            <td>
+                Order Total 
+            </td>
+            <td>
+                <asp:TextBox CssClass="form-control" ID="txtOrderTotal" runat="server" ReadOnly="true"></asp:TextBox>                
+            </td>
+            <td>
+                Paid
+            </td>
+            <td>
+                <asp:TextBox CssClass="form-control" ID="txtPaid" runat="server" ReadOnly="true"></asp:TextBox>                
+            </td>
+            <td>
+               Due
+            </td>
+            <td>
+                <asp:TextBox CssClass="form-control" ID="txtDue" runat="server" ReadOnly="true"></asp:TextBox>                
+            </td>
+        </tr>
+    </table>
 </asp:Content>
