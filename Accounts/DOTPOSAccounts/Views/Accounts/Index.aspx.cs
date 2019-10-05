@@ -16,13 +16,20 @@ namespace IslamTraders_Accounts.Views.Accounts
         {
             if (!Page.IsPostBack)
             {
+                LoadAccountType();
                 GridViewLoad();
             }
         }
-
+        private void LoadAccountType()
+        {
+            string query = "EXEC [dbo].[SP_AccountType]";
+            DataTable dt = _db.GetDataTable(query);
+            ddlAccountType.DataSource = dt;
+            ddlAccountType.DataBind();
+        }
         public void GridViewLoad()
         {
-            string strQuery = "exec [dbo].[SP_AccountList] ";
+            string strQuery = "exec [dbo].[SP_AccountListFilter] @filterText='" + txtFilter.Text.Trim() + "' , @accType=" + ddlAccountType.SelectedValue;
             DataTable dt = _db.GetDataTable(strQuery);
             gvAccounts.DataSource = dt;
             gvAccounts.DataBind();
@@ -30,10 +37,7 @@ namespace IslamTraders_Accounts.Views.Accounts
 
         protected void btnFilter_Click(object sender, EventArgs e)
         {
-            string strQuery = "exec [dbo].[SP_AccountListFilter] @filterText='"+txtFilter.Text.Trim()+"'";
-            DataTable dt = _db.GetDataTable(strQuery);
-            gvAccounts.DataSource = dt;
-            gvAccounts.DataBind();
+            GridViewLoad();
         }
 
         protected void gvAccounts_RowDeleting(object sender, GridViewDeleteEventArgs e)

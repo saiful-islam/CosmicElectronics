@@ -240,6 +240,7 @@ namespace Nop.Services.Common
                 //so let's load it based on a store of the current order
                 var pdfSettingsByStore = _settingContext.LoadSetting<PdfSettings>(order.StoreId);
 
+                int OrderQuantity = 0;
 
                 var lang = _languageService.GetLanguageById(languageId == 0 ? order.CustomerLanguageId : languageId);
                 if (lang == null || !lang.Published)
@@ -590,6 +591,8 @@ namespace Nop.Services.Common
                     cellProductItem.HorizontalAlignment = Element.ALIGN_LEFT;
                     productsTable.AddCell(cellProductItem);
 
+                    OrderQuantity += orderItem.Quantity;
+
                     //total
                     string subTotal;
                     if (order.CustomerTaxDisplayType == TaxDisplayType.IncludingTax)
@@ -836,8 +839,12 @@ namespace Nop.Services.Common
                         p.Border = Rectangle.NO_BORDER;
                         totalsTable.AddCell(p);
                     }
-                    
 
+                    //order Quantity
+                    var orderQtyp = new PdfPCell(new Paragraph(String.Format("{0} : {1}", "Order Quantity", OrderQuantity.ToString()), titleFont));
+                    orderQtyp.HorizontalAlignment = Element.ALIGN_RIGHT;
+                    orderQtyp.Border = Rectangle.NO_BORDER;
+                    totalsTable.AddCell(orderQtyp);
 
                     //order total
                     var orderTotalInCustomerCurrency = _currencyService.ConvertCurrency(order.OrderTotal, order.CurrencyRate);
@@ -856,12 +863,12 @@ namespace Nop.Services.Common
                     string dueTitle = "Due";
                     string duepAmount = dt.Rows[0][0].ToString();
 
-                    var duep = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Paid", dt.Rows[0][1].ToString()), titleFont));
+                    var duep = new PdfPCell(new Paragraph(String.Format("{0} : {1}", "Total Paid", dt.Rows[0][1].ToString()), titleFont));
                     duep.HorizontalAlignment = Element.ALIGN_RIGHT;
                     duep.Border = Rectangle.NO_BORDER;
                     totalsTable.AddCell(duep);
 
-                    duep = new PdfPCell(new Paragraph(String.Format("{0} {1}", dueTitle, duepAmount), titleFont));
+                    duep = new PdfPCell(new Paragraph(String.Format("{0} : {1}", dueTitle, duepAmount), titleFont));
                     duep.HorizontalAlignment = Element.ALIGN_RIGHT;
                     duep.Border = Rectangle.NO_BORDER;
                     totalsTable.AddCell(duep);
@@ -1582,13 +1589,18 @@ namespace Nop.Services.Common
                         p.Border = Rectangle.NO_BORDER;
                         totalsTable.AddCell(p);
                     }
+                    //order Quantity
+                    var orderQtyp = new PdfPCell(new Paragraph(String.Format("{0} : {1}", "Order Quantity", OrderQuantity.ToString()), titleFont));
+                    orderQtyp.HorizontalAlignment = Element.ALIGN_RIGHT;
+                    orderQtyp.Border = Rectangle.NO_BORDER;
+                    totalsTable.AddCell(orderQtyp);
 
                     //order total
                     var orderTotalInCustomerCurrency = _currencyService.ConvertCurrency(order.OrderTotal, order.CurrencyRate);
                     string orderTotalStr = _priceFormatter.FormatPrice(orderTotalInCustomerCurrency, true, order.CustomerCurrencyCode, false, lang);
 
 
-                    var pTotal = new PdfPCell(new Paragraph(String.Format("{0} {1}", _localizationService.GetResource("PDFInvoice.OrderTotal", lang.Id), orderTotalStr), titleFont));
+                    var pTotal = new PdfPCell(new Paragraph(String.Format("{0} : {1}", _localizationService.GetResource("PDFInvoice.OrderTotal", lang.Id), orderTotalStr), titleFont));
                     pTotal.HorizontalAlignment = Element.ALIGN_RIGHT;
                     pTotal.Border = Rectangle.NO_BORDER;
                     totalsTable.AddCell(pTotal);
@@ -1601,12 +1613,12 @@ namespace Nop.Services.Common
                     string dueTitle = "Due";
                     string duepAmount = dt.Rows[0][0].ToString();
 
-                    var duep = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Paid", dt.Rows[0][1].ToString()), titleFont));
+                    var duep = new PdfPCell(new Paragraph(String.Format("{0} : {1}", "Total Paid", dt.Rows[0][1].ToString()), titleFont));
                     duep.HorizontalAlignment = Element.ALIGN_RIGHT;
                     duep.Border = Rectangle.NO_BORDER;
                     totalsTable.AddCell(duep);
 
-                    duep = new PdfPCell(new Paragraph(String.Format("{0} {1}", dueTitle, duepAmount), titleFont));
+                    duep = new PdfPCell(new Paragraph(String.Format("{0} : {1}", dueTitle, duepAmount), titleFont));
                     duep.HorizontalAlignment = Element.ALIGN_RIGHT;
                     duep.Border = Rectangle.NO_BORDER;
                     totalsTable.AddCell(duep);

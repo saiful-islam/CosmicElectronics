@@ -95,12 +95,12 @@ namespace IslamTraders_Accounts.Views.Transaction
             string strQuery = @"SELECT -1 as [Id]
                                       , '' as [Name]
                                 union all
-                                select Id,[Name]
+                                select Id,Description+'-'+[Name] as Name
                                 from [dbo].[Account] 
                                 where AccountTypeId=(
 				                                SELECT max(AccountTypeId)
 				                                FROM [dbo].[Category] 
-				                                where Id="+ddlCategory3.SelectedValue+" )";
+				                                where Id=" + ddlCategory3.SelectedValue+" )";
             DataTable dt = _db.GetDataTable(strQuery);
             ddlAccount.DataSource = dt;
             ddlAccount.DataBind();

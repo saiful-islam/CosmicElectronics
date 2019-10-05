@@ -61,13 +61,13 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Payment / Due<b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Due<b class="caret"></b></a>
                             <ul class="dropdown-menu multi-level">
-                                <li><a runat="server" href="~/Views/Payment/Payment">Payment</a></li>
-                                <li><a runat="server" href="~/Views/Payment/PaymentHistory">Payment History</a></li>
-                                <li><a runat="server" href="~/Views/Payment/Due">Due</a></li>
-                                <li><a runat="server" href="~/Views/Payment/DueHistory">Due History</a></li>
-                                <li><a runat="server" href="~/Views/Payment/OrderDue">Order Due</a></li>
+                                <li><a runat="server" href="~/Views/Payment/Payment">Customer Due</a></li>
+                                <li><a runat="server" href="~/Views/Payment/PaymentHistory">Customer Due History</a></li>
+                                <li><a runat="server" href="~/Views/Payment/Due">Company Due</a></li>
+                                <li><a runat="server" href="~/Views/Payment/DueHistory">Company Due History</a></li>
+                                <li><a runat="server" href="~/Views/Payment/OrderDue">Customer Order Due</a></li>
                             </ul>
                         </li>
                         <li>

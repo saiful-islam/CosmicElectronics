@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Payment.aspx.cs" Inherits="IslamTraders_Accounts.Views.Payment.Payment" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <br/>
-    <asp:LinkButton CssClass="btn btn-primary" ID="LinkButton1" runat="server" PostBackUrl="~/Views/Payment/Create.aspx">New Payment</asp:LinkButton>
+    <asp:LinkButton CssClass="btn btn-primary" ID="LinkButton1" runat="server" PostBackUrl="~/Views/Payment/Create.aspx">New Due</asp:LinkButton>
     <h1>All Payment By Account</h1>
     <table>
         <tr>

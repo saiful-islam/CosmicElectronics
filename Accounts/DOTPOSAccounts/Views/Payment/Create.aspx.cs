@@ -74,9 +74,9 @@ namespace IslamTraders_Accounts.Views.Payment
         }
         private void Load_ddlAccount()
         {
-            string strQuery = @"select Id,[Name]
+            string strQuery = @"select Id,Description+'-'+[Name] as Name
                                 from [dbo].[Account]
-                                where AccountTypeId="+ddlAccountType.SelectedValue;
+                                where AccountTypeId=" + ddlAccountType.SelectedValue;
             DataTable dt = _db.GetDataTable(strQuery);
             ddlAccount.DataSource = dt;
             ddlAccount.DataBind();

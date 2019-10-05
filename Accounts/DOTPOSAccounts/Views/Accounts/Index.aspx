@@ -12,6 +12,9 @@
                 <asp:TextBox CssClass="form-control" ID="txtFilter" runat="server"></asp:TextBox>                
             </td>
             <td>
+                <asp:DropDownList DataTextField="Name" DataValueField="Id" CssClass="form-control" ID="ddlAccountType" runat="server"></asp:DropDownList>
+            </td>
+            <td>
                 <asp:Button CssClass="btn btn-primary" ID="btnFilter" runat="server" Text="Apply" OnClick="btnFilter_Click" />
             </td>
         </tr>

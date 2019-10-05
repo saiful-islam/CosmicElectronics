@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Data;
 using Nop.Core;
 using Nop.Core.Domain;
 using Nop.Core.Domain.Catalog;
@@ -34,6 +35,7 @@ using Nop.Web.Framework.Security;
 using Nop.Web.Framework.Security.Captcha;
 using Nop.Web.Framework.Security.Honeypot;
 using Nop.Web.Models.Customer;
+using Nop.Web.Models.Common;
 
 namespace Nop.Web.Controllers
 {
@@ -1502,6 +1504,32 @@ namespace Nop.Web.Controllers
             return RedirectToRoute("CustomerAvatar");
         }
 
+        #endregion
+
+        #region Customer Address
+        [HttpPost]
+        public virtual ActionResult GetCustomerAddress(string firstName)
+        {
+            if (!_workContext.CurrentCustomer.IsRegistered())
+                return new HttpUnauthorizedResult();
+            string Name = "";
+            string Address = "";
+            string Mobile = "";
+            string query = @"select Name,Mobile,Address
+                            from [dbo].[Account]
+                            where Description='" + firstName + "'";
+            DataOperation obj = new DataOperation();
+            DataTable dataTable = obj.GetDataTableAccounts(query);
+
+            if(dataTable.Rows.Count>0)
+            {
+                Name = dataTable.Rows[0]["Name"].ToString();
+                Mobile = dataTable.Rows[0]["Mobile"].ToString();
+                Address = dataTable.Rows[0]["Address"].ToString();
+            }
+
+            return Json(new { Name=Name, Address= Address, Mobile= Mobile }, JsonRequestBehavior.AllowGet);
+        }
         #endregion
     }
 }
