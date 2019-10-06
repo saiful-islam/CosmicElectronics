@@ -1292,6 +1292,11 @@ namespace Nop.Web.Controllers
             var innerWarnings = new Dictionary<int, IList<string>>();
             foreach (var sci in cart)
             {
+                if (form["itempercentage" + sci.Id] != null && form["itempercentage" + sci.Id] != "")
+                {
+                    //sci.Product.Price = sci.Product.Price - (sci.Product.Price * (Convert.ToDecimal(form["itempercentage" + sci.Id]) / 100));
+                    sci.Percentage = Convert.ToDecimal(form["itempercentage" + sci.Id]);
+                }
                 bool remove = allIdsToRemove.Contains(sci.Id);
                 if (remove)
                     _shoppingCartService.DeleteShoppingCartItem(sci, ensureOnlyActiveCheckoutAttributes: true);

@@ -1102,7 +1102,6 @@ namespace Nop.Web.Controllers
                 .Where(sci => sci.ShoppingCartType == ShoppingCartType.ShoppingCart)
                 .LimitPerStore(_storeContext.CurrentStore.Id)
                 .ToList();
-
             if (!cart.Any())
                 return RedirectToRoute("ShoppingCart");
 
@@ -1111,6 +1110,17 @@ namespace Nop.Web.Controllers
 
             if (_workContext.CurrentCustomer.IsGuest() && !_orderSettings.AnonymousCheckoutAllowed)
                 return new HttpUnauthorizedResult();
+
+            
+
+            //foreach (var sci in cart)
+            //{
+            //    if (sci.Percentage !=null && sci.Percentage>0)
+            //    {
+                    
+            //    }
+            //}
+
 
             var model = _checkoutModelFactory.PrepareOnePageCheckoutModel(cart);
             return View(model);

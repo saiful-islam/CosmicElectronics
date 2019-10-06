@@ -68,6 +68,7 @@ namespace Nop.Web.Models.ShoppingCart
             public int ProductId { get; set; }
 
             public string ProductName { get; set; }
+            public string Percentage { get; set; }
 
             public string ProductSeName { get; set; }
 

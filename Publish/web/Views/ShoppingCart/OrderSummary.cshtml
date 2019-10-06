@@ -66,8 +66,12 @@
                                @T("ShoppingCart.Image")
                            </th>
                        }
+
                        <th class="product">
                            @T("ShoppingCart.Product(s)")
+                       </th>
+                       <th>
+                           Percentage
                        </th>
                        <th class="unit-price">
                            @T("ShoppingCart.UnitPrice")
@@ -150,6 +154,9 @@
                                        </ul>
                                    </div>
                                }
+                           </td>
+                           <td>
+                               <input name="itempercentage@(item.Id)" type="text" value="@(item.Percentage)" style="width: 50px;"  />
                            </td>
                            <td class="unit-price">
                                <label class="td-title">@T("ShoppingCart.UnitPrice"):</label>

@@ -28,7 +28,10 @@ namespace Nop.Core.Domain.Orders
         /// Gets or sets the product identifier
         /// </summary>
         public int ProductId { get; set; }
-
+        /// <summary>
+        /// Gets or sets the Percentage 
+        /// </summary>
+        public decimal? Percentage { get; set; }
         /// <summary>
         /// Gets or sets the product attributes in XML format
         /// </summary>

@@ -264,7 +264,13 @@ namespace Nop.Services.Orders
             decimal subTotalInclTaxWithoutDiscount = decimal.Zero;
             foreach (var shoppingCartItem in cart)
             {
+                //decimal percen=0;
+                //if(shoppingCartItem.Percentage !=null)
+                //{
+                //    percen = (decimal)shoppingCartItem.Percentage;
+                //}
                 decimal sciSubTotal = _priceCalculationService.GetSubTotal(shoppingCartItem);
+                //sciSubTotal = sciSubTotal - (sciSubTotal * percen / 100);
 
                 decimal taxRate;
                 decimal sciExclTax = _taxService.GetProductPrice(shoppingCartItem.Product, sciSubTotal, false, customer, out taxRate);

@@ -451,6 +451,7 @@ namespace Nop.Services.Catalog
         {
             decimal discountAmount;
             List<DiscountForCaching> appliedDiscounts;
+
             return GetUnitPrice(shoppingCartItem, includeDiscounts,
                 out discountAmount, out appliedDiscounts);
         }
@@ -470,7 +471,7 @@ namespace Nop.Services.Catalog
             if (shoppingCartItem == null)
                 throw new ArgumentNullException("shoppingCartItem");
 
-            return GetUnitPrice(shoppingCartItem.Product,
+            decimal unitPrice = GetUnitPrice(shoppingCartItem.Product,
                 shoppingCartItem.Customer,
                 shoppingCartItem.ShoppingCartType,
                 shoppingCartItem.Quantity,
@@ -481,6 +482,11 @@ namespace Nop.Services.Catalog
                 includeDiscounts,
                 out discountAmount,
                 out appliedDiscounts);
+            if (shoppingCartItem.Percentage != null && shoppingCartItem.Percentage > 0)
+            {
+                unitPrice -= (unitPrice * (decimal)shoppingCartItem.Percentage / 100);
+            }
+            return unitPrice;
         }
         /// <summary>
         /// Gets the shopping cart unit price (one item)

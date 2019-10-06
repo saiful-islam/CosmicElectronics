@@ -407,6 +407,7 @@ namespace Nop.Web.Factories
                 ProductSeName = sci.Product.GetSeName(),
                 Quantity = sci.Quantity,
                 AttributeInfo = _productAttributeFormatter.FormatAttributes(sci.Product, sci.AttributesXml),
+                Percentage = sci.Percentage.ToString()
             };
 
             //allow editing?
@@ -467,6 +468,10 @@ namespace Nop.Web.Factories
                 decimal shoppingCartUnitPriceWithDiscountBase = _taxService.GetProductPrice(sci.Product, _priceCalculationService.GetUnitPrice(sci), out taxRate);
                 decimal shoppingCartUnitPriceWithDiscount = _currencyService.ConvertFromPrimaryStoreCurrency(shoppingCartUnitPriceWithDiscountBase, _workContext.WorkingCurrency);
                 cartItemModel.UnitPrice = _priceFormatter.FormatPrice(shoppingCartUnitPriceWithDiscount);
+                //if (cartItemModel.Percentage != "" && cartItemModel.Percentage != null)
+                //{
+                //    cartItemModel.UnitPrice = (Convert.ToDecimal(cartItemModel.UnitPrice.Substring(0, cartItemModel.UnitPrice.Length - 1)) - (Convert.ToDecimal(cartItemModel.UnitPrice.Substring(0, cartItemModel.UnitPrice.Length - 1)) * Convert.ToDecimal(cartItemModel.Percentage) / 100)).ToString();
+                //}
             }
             //subtotal, discount
             if (sci.Product.CallForPrice)
@@ -495,6 +500,7 @@ namespace Nop.Web.Factories
                         cartItemModel.Discount = _priceFormatter.FormatPrice(shoppingCartItemDiscount);
                     }
                 }
+                
             }
 
             //picture
@@ -1070,7 +1076,8 @@ namespace Nop.Web.Factories
                 decimal subtotalBase = subTotalWithoutDiscountBase;
                 decimal subtotal = _currencyService.ConvertFromPrimaryStoreCurrency(subtotalBase, _workContext.WorkingCurrency);
                 model.SubTotal = _priceFormatter.FormatPrice(subtotal, true, _workContext.WorkingCurrency, _workContext.WorkingLanguage, subTotalIncludingTax);
-
+                //cartItemModel.SubTotal = (cartItemModel.Quantity * Convert.ToDecimal(cartItemModel.UnitPrice.Substring(0, cartItemModel.UnitPrice.Length - 1))).ToString();
+                
                 if (orderSubTotalDiscountAmountBase > decimal.Zero)
                 {
                     decimal orderSubTotalDiscountAmount = _currencyService.ConvertFromPrimaryStoreCurrency(orderSubTotalDiscountAmountBase, _workContext.WorkingCurrency);
