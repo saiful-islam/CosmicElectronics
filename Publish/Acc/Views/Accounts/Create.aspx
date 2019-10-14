@@ -5,6 +5,16 @@
         <tr>
             <td>
                 <br />
+                Code *
+            </td>
+            <td>
+                <br />
+                <asp:TextBox CssClass="form-control" ID="txtDescription" runat="server"></asp:TextBox>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <br />
                 Account Name*
             </td>
             <td>
@@ -32,16 +42,7 @@
                 <asp:TextBox CssClass="form-control" ID="txtAddress" runat="server"></asp:TextBox>
             </td>
         </tr>
-        <tr>
-            <td>
-                <br />
-                Description
-            </td>
-            <td>
-                <br />
-                <asp:TextBox CssClass="form-control" ID="txtDescription" runat="server"></asp:TextBox>
-            </td>
-        </tr>
+        
         <tr>
             <td>
                 <br />

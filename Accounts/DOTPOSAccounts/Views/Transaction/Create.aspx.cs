@@ -144,7 +144,7 @@ namespace IslamTraders_Accounts.Views.Transaction
                 values(
                         (select isnull(max(TransId),0)+1 from [dbo].[Transaction]),
                     " + category1 + "," + category2 + "," + category3 + "," + account + "," + total +
-                                      ",0,'" + DateTime.UtcNow + "','" + comment + "','FALSE')";
+                                      ",'" + DateTime.UtcNow + "','" + comment + "','FALSE')";
                 }
                 else
                 {

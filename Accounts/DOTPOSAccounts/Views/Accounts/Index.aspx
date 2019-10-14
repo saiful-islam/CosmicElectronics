@@ -23,11 +23,11 @@
     <asp:GridView ID="gvAccounts" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table" OnRowDeleting="gvAccounts_RowDeleting" OnRowEditing="gvAccounts_RowEditing">
         <AlternatingRowStyle BackColor="White" />
         <Columns>
+            <asp:BoundField DataField="Description" HeaderText="Code" />
             <asp:BoundField DataField="Id" HeaderText="Account Id" />
             <asp:BoundField DataField="Name" HeaderText="Name" />
             <asp:BoundField DataField="Mobile" HeaderText="Mobile" />
             <asp:BoundField DataField="Address" HeaderText="Address" />
-            <asp:BoundField DataField="Description" HeaderText="Description" />
             <asp:BoundField DataField="AccountType" HeaderText="Account Type" />
             <asp:CommandField ShowEditButton="True" />
             <asp:CommandField ShowDeleteButton="True" />

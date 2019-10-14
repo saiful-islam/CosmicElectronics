@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Create.aspx.cs" Inherits="IslamTraders_Accounts.Views.Payment.Create" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <h3>Payment/Due Info:<asp:Label ID="lblPaymentId" runat="server" Text=""></asp:Label></h3>
+    <h3>Due Info:<asp:Label ID="lblPaymentId" runat="server" Text=""></asp:Label></h3>
     <table>
         <tr>
             <td>

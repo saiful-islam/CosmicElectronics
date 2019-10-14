@@ -22,6 +22,15 @@ namespace IslamTraders_Accounts.Views.Accounts {
         protected global::System.Web.UI.WebControls.Label lblAccountId;
         
         /// <summary>
+        /// txtDescription control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtDescription;
+        
+        /// <summary>
         /// txtAccountName control.
         /// </summary>
         /// <remarks>
@@ -47,15 +56,6 @@ namespace IslamTraders_Accounts.Views.Accounts {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtAddress;
-        
-        /// <summary>
-        /// txtDescription control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDescription;
         
         /// <summary>
         /// ddlAccountType control.

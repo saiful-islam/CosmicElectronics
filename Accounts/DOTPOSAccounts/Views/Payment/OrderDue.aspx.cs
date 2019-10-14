@@ -38,10 +38,10 @@ namespace IslamTraders_Accounts.Views.Payment
         private void LoadGrid()
         {
             string filter = txtFilter.Text.Trim();
-            string query = @"select a.Description as Code,a.Name, 
+            string query = @"select substring(a.Description,1,1) BookNo,cast(dbo.udf_GetNumeric(a.Description) as int) CustomerSerial,a.Description as Code,a.Name, 
 	                                a.Address,a.Mobile
                             from [dbo].[Account] a
-                            where (a.Description like '%"+ filter + "%' or a.Mobile like '%" + filter + "%' or a.Name like '%" + filter + "%') and  a.AccountTypeId=" + ddlAccountType.SelectedValue;
+                            where (a.Description = '" + filter + "' or a.Mobile like '%" + filter + "%' or a.Name like '%" + filter + "%') and  a.AccountTypeId=" + ddlAccountType.SelectedValue + "  order by BookNo,CustomerSerial";
             DataTable dtAccounts = _db.GetDataTable(query);
 
             query = " EXEC dbo.SP_GET_CUSTOMER_ORDER";
