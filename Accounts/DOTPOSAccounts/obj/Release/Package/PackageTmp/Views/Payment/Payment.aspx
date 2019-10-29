@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <br/>
     <asp:LinkButton CssClass="btn btn-primary" ID="LinkButton1" runat="server" PostBackUrl="~/Views/Payment/Create.aspx">New Due</asp:LinkButton>
-    <h1>All Payment By Account</h1>
+    <h1>All Due By Account</h1>
     <table>
         <tr>
             <td>

@@ -68,6 +68,7 @@
                                 <li><a runat="server" href="~/Views/Payment/Due">Company Due</a></li>
                                 <li><a runat="server" href="~/Views/Payment/DueHistory">Company Due History</a></li>
                                 <li><a runat="server" href="~/Views/Payment/OrderDue">Customer Order Due</a></li>
+                                <li><a runat="server" href="~/Views/Payment/DealerDue">Dealer Due</a></li>
                             </ul>
                         </li>
                         <li>
