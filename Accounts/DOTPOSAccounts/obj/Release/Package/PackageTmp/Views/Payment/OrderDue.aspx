@@ -30,6 +30,7 @@
             <asp:BoundField DataField="OrderTotal" HeaderText="Order Total" />
             <asp:BoundField DataField="Paid" HeaderText="Total Paid" />
             <asp:BoundField DataField="DUE" HeaderText="Due" />		
+            <asp:HyperLinkField Text="Print" DataNavigateUrlFields="Code" DataNavigateUrlFormatString="DuePrint.aspx?id={0}" Target="_blank"></asp:HyperLinkField>
         </Columns>
 
         <EditRowStyle BackColor="#2461BF" />

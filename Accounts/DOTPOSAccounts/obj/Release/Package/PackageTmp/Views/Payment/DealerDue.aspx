@@ -1,16 +1,16 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="DealerDue.aspx.cs" Inherits="IslamTraders_Accounts.Views.Payment.DealerDue" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <br/>
+    <br />
     <h1>Dealer total Due</h1>
     <table>
         <tr>
-            <td>
-                Filter by Account Name&nbsp;&nbsp;
+            <td>Filter by Account Name&nbsp;&nbsp;
             </td>
             <td>
-                <asp:TextBox CssClass="form-control" ID="txtFilter" runat="server"></asp:TextBox>                
+                <asp:TextBox CssClass="form-control" ID="txtFilter" runat="server"></asp:TextBox>
             </td>
-        <%--    <td>
+            <%--    <td>
                 <asp:DropDownList DataTextField="Name" DataValueField="Id" CssClass="form-control" ID="ddlAccountType" runat="server"></asp:DropDownList>
             </td>--%>
             <td>
@@ -18,17 +18,18 @@
             </td>
         </tr>
     </table>
-    <br/>
+    <br />
     <asp:GridView ID="gvPaymentList" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table">
         <AlternatingRowStyle BackColor="White" />
         <Columns>
             <asp:BoundField DataField="Code" HeaderText="Code" />
             <asp:BoundField DataField="Name" HeaderText="Name" />
             <asp:BoundField DataField="Address" HeaderText="Address" />
-            <asp:BoundField DataField="Mobile" HeaderText="Mobile"/>
+            <asp:BoundField DataField="Mobile" HeaderText="Mobile" />
             <asp:BoundField DataField="OrderTotal" HeaderText="Order Total" />
             <asp:BoundField DataField="Paid" HeaderText="Total Paid" />
-            <asp:BoundField DataField="DUE" HeaderText="Due" />		
+            <asp:BoundField DataField="DUE" HeaderText="Due" />
+            <asp:HyperLinkField Text="Print" DataNavigateUrlFields="Code" DataNavigateUrlFormatString="DuePrint.aspx?id={0}" Target="_blank"></asp:HyperLinkField>
         </Columns>
 
         <EditRowStyle BackColor="#2461BF" />

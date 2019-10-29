@@ -40,8 +40,7 @@ namespace IslamTraders_Accounts.Views.Payment
             DataTable dtSales = _nop.GetDataTable(query);
 
             var Result = from Leftrow in dtAccounts.AsEnumerable()
-                         join Rightrow in dtSales.AsEnumerable() on Leftrow["Code"] equals Rightrow["Code"]
-                         into r
+                         join Rightrow in dtSales.AsEnumerable() on Leftrow["Code"] equals Rightrow["Code"]  into r
                          from Rightrow in r.DefaultIfEmpty() 
                          select new
                          {
@@ -49,9 +48,9 @@ namespace IslamTraders_Accounts.Views.Payment
                              Name = Leftrow["Name"],
                              Address = Leftrow["Address"],
                              Mobile = Leftrow["Mobile"],
-                             OrderTotal = Rightrow == null? 0 : Convert.ToDecimal(Rightrow["OrderTotal"]) + Convert.ToDecimal(Leftrow["Payment"]),
-                             Paid = Rightrow == null ? 0 : Convert.ToDecimal(Rightrow["Paid"]) + Convert.ToDecimal(Leftrow["TotalPaid"]),
-                             DUE = Rightrow == null ? 0 : Convert.ToDecimal(Rightrow["DUE"]) + Convert.ToDecimal(Leftrow["Payment_Due"])
+                             OrderTotal = Convert.ToDecimal(Rightrow == null ? 0: Rightrow["OrderTotal"]) + Convert.ToDecimal(Leftrow["Payment"]),
+                             Paid = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["Paid"]) + Convert.ToDecimal(Leftrow["TotalPaid"]),
+                             DUE = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["DUE"]) + Convert.ToDecimal(Leftrow["Payment_Due"])
                          };
             foreach(var r in Result)
             {

@@ -47,9 +47,9 @@ namespace IslamTraders_Accounts.Views.Payment
                              Name = Leftrow["Name"],
                              Address = Leftrow["Address"],
                              Mobile = Leftrow["Mobile"],
-                             OrderTotal = Rightrow == null ? 0 : Convert.ToDecimal( Rightrow["OrderTotal"]) + Convert.ToDecimal( Leftrow["Payment"]),
-                             Paid = Rightrow == null ? 0 : Convert.ToDecimal(Rightrow["Paid"]) + Convert.ToDecimal(Leftrow["TotalPaid"]),
-                             DUE = Rightrow == null ? 0 : Convert.ToDecimal(Rightrow["DUE"]) + Convert.ToDecimal(Leftrow["Payment_Due"])
+                             OrderTotal = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["OrderTotal"]) + Convert.ToDecimal(Leftrow["Payment"]),
+                             Paid = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["Paid"]) + Convert.ToDecimal(Leftrow["TotalPaid"]),
+                             DUE = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["DUE"]) + Convert.ToDecimal(Leftrow["Payment_Due"])
                          };
 
             gvPaymentList.DataSource = Result;
