@@ -526,7 +526,7 @@
                         <div class="col-md-3">
                             @Html.NopLabelFor(model => model.Sku)
                         </div>
-                        @if (Model.Sku == string.Empty)
+                        @if (Model.Id == 0)
                         {
                             <div class="col-md-9">
                                 @{

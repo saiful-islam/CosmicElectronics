@@ -9,6 +9,7 @@ using System.Linq;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
 using Nop.Core;
+using Nop.Core.Data;
 using Nop.Core.Domain.Catalog;
 using Nop.Core.Domain.Common;
 using Nop.Core.Domain.Directory;
@@ -27,6 +28,7 @@ using Nop.Services.Media;
 using Nop.Services.Orders;
 using Nop.Services.Payments;
 using Nop.Services.Stores;
+using System.Data.SqlClient;
 
 namespace Nop.Services.Common
 {
@@ -876,6 +878,67 @@ namespace Nop.Services.Common
 
                     doc.Add(totalsTable);
                 }
+
+                #endregion
+
+                #region Total Due
+                DataOperationForLib _db = new DataOperationForLib();
+
+                string filter = order.BillingAddress.FirstName;
+                string query = @"EXEC [dbo].[SP_PaymentDueByAccountFilter] @PaymentType=2,@accountTypeId=0, @accName='" + filter + "'";
+                DataTable dtAccounts = _db.GetDataTableAccounts(query);
+
+                query = " EXEC dbo.SP_GET_CUSTOMER_ORDER_TOTAL";
+                DataTable dtSales = _db.GetDataTable(query);
+
+                var Result = from Leftrow in dtAccounts.AsEnumerable()
+                             join Rightrow in dtSales.AsEnumerable() on Leftrow["Code"] equals Rightrow["Code"] into r
+                             from Rightrow in r.DefaultIfEmpty()
+                             select new
+                             {
+                                 Code = Leftrow["Code"],
+                                 Name = Leftrow["Name"],
+                                 Address = Leftrow["Address"],
+                                 Mobile = Leftrow["Mobile"],
+                                 OrderTotal = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["OrderTotal"]) + Convert.ToDecimal(Leftrow["Payment"]),
+                                 Paid = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["Paid"]) + Convert.ToDecimal(Leftrow["TotalPaid"]),
+                                 DUE = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["DUE"]) + Convert.ToDecimal(Leftrow["Payment_Due"])
+                             };
+
+                string total="", due="", paid="";
+                foreach (var r in Result)
+                {
+                    total = r.OrderTotal.ToString();
+                    due = r.Paid.ToString();
+                    paid = r.DUE.ToString();
+                }
+
+                var totalsDue = new PdfPTable(1);
+                totalsDue.RunDirection = GetDirection(lang);
+                totalsDue.DefaultCell.Border = Rectangle.NO_BORDER;
+                totalsDue.WidthPercentage = 100f;
+
+                var pTotalDue = new PdfPCell(new Paragraph("--------Total---------------", titleFont));
+                pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
+                pTotalDue.Border = Rectangle.NO_BORDER;
+                totalsDue.AddCell(pTotalDue);
+
+                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Order", total), titleFont));
+                pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
+                pTotalDue.Border = Rectangle.NO_BORDER;
+                totalsDue.AddCell(pTotalDue);
+
+                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Paid", paid), titleFont));
+                pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
+                pTotalDue.Border = Rectangle.NO_BORDER;
+                totalsDue.AddCell(pTotalDue);
+
+                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Due", due), titleFont));
+                pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
+                pTotalDue.Border = Rectangle.NO_BORDER;
+                totalsDue.AddCell(pTotalDue);
+
+                doc.Add(totalsDue);
 
                 #endregion
 

@@ -4249,7 +4249,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/14/2017 18:09:16</publishTime>
     </File>
     <File Include="Administration/Views/Product/_CreateOrUpdate.Info.cshtml">
-      <publishTime>10/02/2019 22:58:10</publishTime>
+      <publishTime>10/09/2019 14:27:45</publishTime>
     </File>
     <File Include="Administration/Views/Product/_CreateOrUpdate.Pictures.cshtml">
       <publishTime>03/14/2017 18:09:16</publishTime>
@@ -4776,6 +4776,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="App_Data/Pdf/vrinda.ttf">
       <publishTime>12/27/2017 10:22:44</publishTime>
     </File>
+    <File Include="App_Data/Settings_local.txt">
+      <publishTime>08/24/2019 15:50:52</publishTime>
+    </File>
     <File Include="App_Data/Settings_prod.txt">
       <publishTime>08/26/2019 11:19:27</publishTime>
     </File>
@@ -5017,10 +5020,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/14/2017 18:09:24</publishTime>
     </File>
     <File Include="bin/Nop.Admin.dll">
-      <publishTime>10/06/2019 14:52:11</publishTime>
+      <publishTime>11/05/2019 17:11:57</publishTime>
     </File>
     <File Include="bin/Nop.Admin.pdb">
-      <publishTime>10/06/2019 14:52:11</publishTime>
+      <publishTime>11/05/2019 17:11:57</publishTime>
     </File>
     <File Include="bin/Nop.Core.dll">
       <publishTime>10/06/2019 14:29:23</publishTime>
@@ -5032,40 +5035,40 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/06/2019 14:29:23</publishTime>
     </File>
     <File Include="bin/Nop.Data.dll">
-      <publishTime>10/06/2019 14:29:25</publishTime>
+      <publishTime>11/05/2019 17:11:18</publishTime>
     </File>
     <File Include="bin/Nop.Data.dll.config">
       <publishTime>03/14/2017 18:09:12</publishTime>
     </File>
     <File Include="bin/Nop.Data.pdb">
-      <publishTime>10/06/2019 14:29:25</publishTime>
+      <publishTime>11/05/2019 17:11:18</publishTime>
     </File>
     <File Include="bin/Nop.Services.dll">
-      <publishTime>10/06/2019 14:29:29</publishTime>
+      <publishTime>11/05/2019 17:11:22</publishTime>
     </File>
     <File Include="bin/Nop.Services.dll.config">
       <publishTime>08/24/2019 19:20:42</publishTime>
     </File>
     <File Include="bin/Nop.Services.pdb">
-      <publishTime>10/06/2019 14:29:29</publishTime>
+      <publishTime>11/05/2019 17:11:22</publishTime>
     </File>
     <File Include="bin/Nop.Services.XmlSerializers.dll">
-      <publishTime>10/06/2019 14:29:57</publishTime>
+      <publishTime>11/05/2019 17:11:47</publishTime>
     </File>
     <File Include="bin/Nop.Web.dll">
-      <publishTime>10/06/2019 14:52:14</publishTime>
+      <publishTime>11/05/2019 17:12:02</publishTime>
     </File>
     <File Include="bin/Nop.Web.Framework.dll">
-      <publishTime>10/06/2019 14:29:58</publishTime>
+      <publishTime>11/05/2019 17:11:49</publishTime>
     </File>
     <File Include="bin/Nop.Web.Framework.dll.config">
       <publishTime>08/24/2019 19:20:45</publishTime>
     </File>
     <File Include="bin/Nop.Web.Framework.pdb">
-      <publishTime>10/06/2019 14:29:58</publishTime>
+      <publishTime>11/05/2019 17:11:49</publishTime>
     </File>
     <File Include="bin/Nop.Web.pdb">
-      <publishTime>10/06/2019 14:52:14</publishTime>
+      <publishTime>11/05/2019 17:12:02</publishTime>
     </File>
     <File Include="bin/Owin.dll">
       <publishTime>12/06/2016 17:09:54</publishTime>
