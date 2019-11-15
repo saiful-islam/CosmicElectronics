@@ -909,8 +909,8 @@ namespace Nop.Services.Common
                 foreach (var r in Result)
                 {
                     total = r.OrderTotal.ToString();
-                    due = r.Paid.ToString();
-                    paid = r.DUE.ToString();
+                    paid = r.Paid.ToString();
+                    due = r.DUE.ToString();
                 }
 
                 var totalsDue = new PdfPTable(1);
