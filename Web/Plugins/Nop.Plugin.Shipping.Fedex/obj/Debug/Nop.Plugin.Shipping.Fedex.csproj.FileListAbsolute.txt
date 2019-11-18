@@ -21,3 +21,14 @@ D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.Fedex
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csproj.CoreCompileInputs.cache
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.Fedex\Views\Configure.cshtml
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.Fedex\web.config
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.Fedex\Description.txt
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.Fedex\logo.jpg
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll.config
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.dll
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin.Shipping.Fedex.pdb
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csproj.App.config
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojAssemblyReference.cache
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb

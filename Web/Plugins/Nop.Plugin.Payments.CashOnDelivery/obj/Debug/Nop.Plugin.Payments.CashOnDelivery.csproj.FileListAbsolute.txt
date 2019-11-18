@@ -21,3 +21,14 @@ D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.CashO
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.csproj.CoreCompileInputs.cache
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\Configure.cshtml
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Views\PaymentInfo.cshtml
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Description.txt
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\web.config
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\logo.jpg
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll.config
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.dll
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.CashOnDelivery\Nop.Plugin.Payments.CashOnDelivery.pdb
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.csprojAssemblyReference.cache
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.dll
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.CashOnDelivery\obj\Debug\Nop.Plugin.Payments.CashOnDelivery.pdb

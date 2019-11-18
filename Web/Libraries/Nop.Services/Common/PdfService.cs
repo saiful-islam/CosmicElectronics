@@ -912,6 +912,53 @@ namespace Nop.Services.Common
                     paid = r.Paid.ToString();
                     due = r.DUE.ToString();
                 }
+                query = @"select TransTotal, TransDateUTC
+                        from [dbo].[Transaction] a
+                        join [dbo].[Account] b on a.AccountId = b.Id
+                        where b.Description='" + filter + "'";
+                query += @"  and TransDateUTC = (
+	                        select max(TransDateUTC)
+	                        from [dbo].[Transaction] a
+	                        join [dbo].[Account] b on a.AccountId = b.Id
+	                        where b.Description='" + filter + "')";
+
+                DataTable dtLastDuePayment = _db.GetDataTableAccounts(query);
+
+                query = @"select p.PaidToday,p.PaidDate
+                        from Payment p
+                        join [Order] o on p.OrderId=o.id
+                        join Address a on a.Id = o.BillingAddressId
+                        where a.FirstName='" + filter + "'";
+                query += @"  and p.PaidDate = (select max(p.PaidDate)
+				        from Payment p
+				        join [Order] o on p.OrderId=o.id
+				        join Address a on a.Id = o.BillingAddressId
+				        where a.FirstName='" + filter + "')";
+                DataTable dtLastOrderPayment = _db.GetDataTable(query);
+
+                string lastPayment = "0.0000";
+                string lastPaymentDate = DateTime.Now.ToShortDateString();
+                if(dtLastDuePayment.Rows.Count==0 && dtLastOrderPayment.Rows.Count == 0)
+                {
+                    lastPayment = "0.0000";
+                }
+                else if(dtLastDuePayment.Rows.Count == 0)
+                {
+                    lastPayment = dtLastOrderPayment.Rows[0][0].ToString();
+                    lastPaymentDate = Convert.ToDateTime(dtLastOrderPayment.Rows[0][1].ToString()).ToShortDateString();
+                }
+                else if (dtLastOrderPayment.Rows.Count == 0)
+                {
+                    lastPayment = dtLastDuePayment.Rows[0][0].ToString();
+                    lastPaymentDate = Convert.ToDateTime(dtLastDuePayment.Rows[0][1].ToString()).ToShortDateString();
+                }
+                else 
+                {
+                    DateTime dateDue = Convert.ToDateTime(dtLastDuePayment.Rows[0][1].ToString());
+                    DateTime dateOrder = Convert.ToDateTime(dtLastOrderPayment.Rows[0][1].ToString());
+                    lastPayment = dateDue > dateOrder ? dtLastDuePayment.Rows[0][0].ToString(): dtLastOrderPayment.Rows[0][0].ToString();
+                    lastPaymentDate = dateDue > dateOrder ? Convert.ToDateTime(dtLastDuePayment.Rows[0][1].ToString()).ToShortDateString() : Convert.ToDateTime(dtLastOrderPayment.Rows[0][1].ToString()).ToShortDateString();
+                }
 
                 var totalsDue = new PdfPTable(1);
                 totalsDue.RunDirection = GetDirection(lang);
@@ -923,17 +970,27 @@ namespace Nop.Services.Common
                 pTotalDue.Border = Rectangle.NO_BORDER;
                 totalsDue.AddCell(pTotalDue);
 
-                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Order", total), titleFont));
+                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Order : ", total), titleFont));
                 pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
                 pTotalDue.Border = Rectangle.NO_BORDER;
                 totalsDue.AddCell(pTotalDue);
 
-                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Paid", paid), titleFont));
+                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Paid : ", paid), titleFont));
                 pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
                 pTotalDue.Border = Rectangle.NO_BORDER;
                 totalsDue.AddCell(pTotalDue);
 
-                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Due", due), titleFont));
+                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", lastPaymentDate+" : ", lastPayment), titleFont));
+                pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
+                pTotalDue.Border = Rectangle.NO_BORDER;
+                totalsDue.AddCell(pTotalDue);
+
+                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "------------", "----------"), titleFont));
+                pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
+                pTotalDue.Border = Rectangle.NO_BORDER;
+                totalsDue.AddCell(pTotalDue);
+
+                pTotalDue = new PdfPCell(new Paragraph(String.Format("{0} {1}", "Total Due : ", due), titleFont));
                 pTotalDue.HorizontalAlignment = Element.ALIGN_RIGHT;
                 pTotalDue.Border = Rectangle.NO_BORDER;
                 totalsDue.AddCell(pTotalDue);

@@ -23,3 +23,15 @@ D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.Manua
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
 D:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.App.config
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojAssemblyReference.cache
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

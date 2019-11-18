@@ -1,0 +1,39 @@
+select p.PaidToday
+from Payment p
+join [Order] o on p.OrderId=o.id
+join Address a on a.Id = o.BillingAddressId
+where a.FirstName='B8597' 
+and p.PaidDate = (select max(p.PaidDate)
+				from Payment p
+				join [Order] o on p.OrderId=o.id
+				join Address a on a.Id = o.BillingAddressId
+				where a.FirstName='B8597')
+
+
+--insert into [dbo].[PaymentTransaction]
+--select 144+ROW_NUMBER() over(order by a.Id), a.Id,a.AccountTypeId,2,b.Sale,GETDATE(),'Old Order Due',0
+--from [dbo].[Account] a
+--join [dbo].[temp] b on a.Description=b.Id
+
+--select *
+--from [dbo].[Transaction]
+----where TransComment='Old Order Due'
+--insert into [dbo].[Transaction]
+--select 183+ROW_NUMBER() over(order by a.Id), 2, 201,20104, a.Id,b.paid,GETDATE(),'Old Order Due',0
+--from [dbo].[Account] a
+--join [dbo].[temp] b on a.Description=b.Id
+
+--select *
+--from temp
+
+
+select Payment
+from [dbo].[PaymentTransaction] a
+join [dbo].[Account] b on a.AccountId = b.Id
+where b.Description='C1255' 
+and PaymentDate = (
+	select max(PaymentDate)
+	from [dbo].[PaymentTransaction] a
+	join [dbo].[Account] b on a.AccountId = b.Id
+	where b.Description='C1255' 
+)
