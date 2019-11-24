@@ -5020,10 +5020,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/14/2017 18:09:24</publishTime>
     </File>
     <File Include="bin/Nop.Admin.dll">
-      <publishTime>11/18/2019 14:34:09</publishTime>
+      <publishTime>11/24/2019 18:57:54</publishTime>
     </File>
     <File Include="bin/Nop.Admin.pdb">
-      <publishTime>11/18/2019 14:34:09</publishTime>
+      <publishTime>11/24/2019 18:57:54</publishTime>
     </File>
     <File Include="bin/Nop.Core.dll">
       <publishTime>11/18/2019 12:49:56</publishTime>
@@ -5044,31 +5044,31 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/18/2019 12:49:57</publishTime>
     </File>
     <File Include="bin/Nop.Services.dll">
-      <publishTime>11/18/2019 14:34:02</publishTime>
+      <publishTime>11/24/2019 18:57:42</publishTime>
     </File>
     <File Include="bin/Nop.Services.dll.config">
       <publishTime>11/18/2019 08:42:08</publishTime>
     </File>
     <File Include="bin/Nop.Services.pdb">
-      <publishTime>11/18/2019 14:34:02</publishTime>
+      <publishTime>11/24/2019 18:57:42</publishTime>
     </File>
     <File Include="bin/Nop.Services.XmlSerializers.dll">
-      <publishTime>11/18/2019 14:34:03</publishTime>
+      <publishTime>11/24/2019 18:57:44</publishTime>
     </File>
     <File Include="bin/Nop.Web.dll">
-      <publishTime>11/18/2019 14:34:12</publishTime>
+      <publishTime>11/24/2019 18:57:57</publishTime>
     </File>
     <File Include="bin/Nop.Web.Framework.dll">
-      <publishTime>11/18/2019 14:34:05</publishTime>
+      <publishTime>11/24/2019 18:57:47</publishTime>
     </File>
     <File Include="bin/Nop.Web.Framework.dll.config">
       <publishTime>11/18/2019 08:42:10</publishTime>
     </File>
     <File Include="bin/Nop.Web.Framework.pdb">
-      <publishTime>11/18/2019 14:34:05</publishTime>
+      <publishTime>11/24/2019 18:57:47</publishTime>
     </File>
     <File Include="bin/Nop.Web.pdb">
-      <publishTime>11/18/2019 14:34:12</publishTime>
+      <publishTime>11/24/2019 18:57:57</publishTime>
     </File>
     <File Include="bin/Owin.dll">
       <publishTime>12/06/2016 17:09:54</publishTime>

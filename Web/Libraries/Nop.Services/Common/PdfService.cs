@@ -269,16 +269,16 @@ namespace Nop.Services.Common
                 //cellHeader.Phrase.Add(new Phrase(anchor));
                 cellHeader.Phrase.Add(new Phrase(String.Format("COSMIC ELECTRONICS & MOTORS"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("East side of Raipur sub-registry office mosque, Raipur, Laxmipur."), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("DEALER: WALTON, MARCEL, MINISTER, KONKA, JAMUNA, HERO"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.Phrase.Add(new Phrase(String.Format("Proprietor"), font));
+                cellHeader.Phrase.Add(new Phrase(String.Format("East side of Raipur sub-registry office mosque, Raipur, Laxmipur."), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 cellHeader.Phrase.Add(new Phrase(String.Format("Mobile# 01714-407431, 01930-010034"), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 cellHeader.Phrase.Add(new Phrase(String.Format(_localizationService.GetResource("PDFInvoice.OrderDate", lang.Id), _dateTimeHelper.ConvertToUserTime(order.CreatedOnUtc, DateTimeKind.Utc).ToString("D", new CultureInfo(lang.LanguageCulture))), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.HorizontalAlignment = Element.ALIGN_LEFT;
+                cellHeader.HorizontalAlignment = Element.ALIGN_CENTER;
                 cellHeader.Border = Rectangle.NO_BORDER;
 
                 headerTable.AddCell(cellHeader);
@@ -937,7 +937,7 @@ namespace Nop.Services.Common
                 DataTable dtLastOrderPayment = _db.GetDataTable(query);
 
                 string lastPayment = "0.0000";
-                string lastPaymentDate = DateTime.Now.ToShortDateString();
+                string lastPaymentDate = DateTime.Now.ToString("dd-MMM-yyyy");
                 if(dtLastDuePayment.Rows.Count==0 && dtLastOrderPayment.Rows.Count == 0)
                 {
                     lastPayment = "0.0000";
@@ -945,19 +945,19 @@ namespace Nop.Services.Common
                 else if(dtLastDuePayment.Rows.Count == 0)
                 {
                     lastPayment = dtLastOrderPayment.Rows[0][0].ToString();
-                    lastPaymentDate = Convert.ToDateTime(dtLastOrderPayment.Rows[0][1].ToString()).ToShortDateString();
+                    lastPaymentDate = Convert.ToDateTime(dtLastOrderPayment.Rows[0][1].ToString()).ToString("dd-MMM-yyyy");
                 }
                 else if (dtLastOrderPayment.Rows.Count == 0)
                 {
                     lastPayment = dtLastDuePayment.Rows[0][0].ToString();
-                    lastPaymentDate = Convert.ToDateTime(dtLastDuePayment.Rows[0][1].ToString()).ToShortDateString();
+                    lastPaymentDate = Convert.ToDateTime(dtLastDuePayment.Rows[0][1].ToString()).ToString("dd-MMM-yyyy");
                 }
                 else 
                 {
                     DateTime dateDue = Convert.ToDateTime(dtLastDuePayment.Rows[0][1].ToString());
                     DateTime dateOrder = Convert.ToDateTime(dtLastOrderPayment.Rows[0][1].ToString());
                     lastPayment = dateDue > dateOrder ? dtLastDuePayment.Rows[0][0].ToString(): dtLastOrderPayment.Rows[0][0].ToString();
-                    lastPaymentDate = dateDue > dateOrder ? Convert.ToDateTime(dtLastDuePayment.Rows[0][1].ToString()).ToShortDateString() : Convert.ToDateTime(dtLastOrderPayment.Rows[0][1].ToString()).ToShortDateString();
+                    lastPaymentDate = dateDue > dateOrder ? Convert.ToDateTime(dtLastDuePayment.Rows[0][1].ToString()).ToString("dd-MMM-yyyy") : Convert.ToDateTime(dtLastOrderPayment.Rows[0][1].ToString()).ToString("dd-MMM-yyyy");
                 }
 
                 var totalsDue = new PdfPTable(1);
@@ -1168,7 +1168,7 @@ namespace Nop.Services.Common
                 cellHeader.Phrase.Add(new Phrase(String.Format(_localizationService.GetResource("PDFInvoice.OrderDate", lang.Id), _dateTimeHelper.ConvertToUserTime(order.CreatedOnUtc, DateTimeKind.Utc).ToString("D", new CultureInfo(lang.LanguageCulture))), font));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
                 cellHeader.Phrase.Add(new Phrase(Environment.NewLine));
-                cellHeader.HorizontalAlignment = Element.ALIGN_LEFT;
+                cellHeader.HorizontalAlignment = Element.ALIGN_CENTER;
                 cellHeader.Border = Rectangle.NO_BORDER;
 
                 headerTable.AddCell(cellHeader);
