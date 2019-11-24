@@ -12,7 +12,7 @@ namespace IslamTraders_Accounts.Views.Accounts
     public partial class Create : System.Web.UI.Page
     {
         DataOperation _db = new DataOperation();
-        private int accId = 0;
+        private string accId = "";
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!Page.IsPostBack)
@@ -20,8 +20,8 @@ namespace IslamTraders_Accounts.Views.Accounts
                 Load_ddlAccountType();
                 try
                 {
-                    accId = Convert.ToInt32(Request.QueryString["id"]);
-                    if (accId > 0) lblAccountId.Text = accId.ToString();
+                    accId = Request.QueryString["id"];
+                    if (accId == "" || accId == null) lblAccountId.Text = accId.ToString();
                     LoadEdit(accId);
                 }
                 catch (Exception exception)
@@ -43,11 +43,11 @@ namespace IslamTraders_Accounts.Views.Accounts
             ddlAccountType.DataBind();
         }
 
-        private void LoadEdit(int accId)
+        private void LoadEdit(string accId)
         {
             string strQuery = @"SELECT *
                                 FROM [dbo].[Account]
-                                where Id=" + accId;
+                                where Description='" + accId+"'";
             DataTable dt = _db.GetDataTable(strQuery);
             Load_ddlAccountType();
             ddlAccountType.SelectedValue = dt.Rows[0]["AccountTypeId"].ToString();
@@ -61,14 +61,14 @@ namespace IslamTraders_Accounts.Views.Accounts
         {
             try
             {
-                accId = Convert.ToInt32(Request.QueryString["id"]);
+                accId = Request.QueryString["id"];
                 string strQuery = "";
                 string accountTypeId = ddlAccountType.SelectedValue;
                 string name = txtAccountName.Text.Trim();
                 string address = txtAddress.Text.Trim();
                 string desc = txtDescription.Text.Trim();
                 string mobile = txtMobile.Text.Trim();
-                if (accId == 0)
+                if (accId == "" || accId == null)
                 {
                     strQuery = @"insert into [dbo].[Account]
                 values(
@@ -83,7 +83,7 @@ namespace IslamTraders_Accounts.Views.Accounts
                     strQuery += Environment.NewLine + " ,Address= '" + address + "'";
                     strQuery += Environment.NewLine + " ,Description= '" + desc + "'";
                     strQuery += Environment.NewLine + " ,AccountTypeId= " + accountTypeId;
-                    strQuery += Environment.NewLine + " Where Id= " + accId ;
+                    strQuery += Environment.NewLine + " Where Description= '" + accId +"'";
                 }
                 _db.ExecuteNonQuery(strQuery);
                 Response.Redirect("Index", true);

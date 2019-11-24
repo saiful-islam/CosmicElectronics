@@ -12,6 +12,7 @@ namespace IslamTraders_Accounts.Views.Payment
     public partial class Payment : System.Web.UI.Page
     {
         DataOperation _db = new DataOperation();
+        DataOperationNop _nop = new DataOperationNop();
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!Page.IsPostBack)
@@ -30,17 +31,35 @@ namespace IslamTraders_Accounts.Views.Payment
         private void LoadGrid()
         {
             string query = "EXEC [dbo].[SP_PaymentDueByAccountFilter] @PaymentType=2,@accName='" + txtFilter.Text.Trim() + "', @accountTypeId=" + ddlAccountType.SelectedValue;
-            DataTable dt = _db.GetDataTable(query);
-            gvPaymentList.DataSource = dt;
+            DataTable dtAccounts = _db.GetDataTable(query);
+
+            query = " EXEC dbo.SP_GET_CUSTOMER_ORDER";
+            DataTable dtSales = _nop.GetDataTable(query);
+
+            var Result = from Leftrow in dtAccounts.AsEnumerable()
+                         join Rightrow in dtSales.AsEnumerable() on Leftrow["Code"] equals Rightrow["Code"]
+                         into temp
+                         from r in temp.DefaultIfEmpty()
+                         select new
+                         {
+                             Code = Leftrow["Code"],
+                             Name = Leftrow["Name"],
+                             Address = Leftrow["Address"],
+                             Mobile = Leftrow["Mobile"],
+                             Payment = r != null ? Convert.ToDecimal(Leftrow["Payment"]) + Convert.ToDecimal(r["OrderTotal"]) : Convert.ToDecimal(Leftrow["Payment"]),
+                             TotalPaid = r != null ? Convert.ToDecimal(Leftrow["TotalPaid"]) + Convert.ToDecimal(r["Paid"]) : Convert.ToDecimal(Leftrow["TotalPaid"]),
+                             Payment_Due = r != null ? Convert.ToDecimal(Leftrow["Payment_Due"]) + Convert.ToDecimal(r["DUE"]) : Convert.ToDecimal(Leftrow["Payment_Due"])
+                         };
+
+
+
+            gvPaymentList.DataSource = Result;
             gvPaymentList.DataBind();
         }
 
         protected void btnFilter_Click(object sender, EventArgs e)
         {
-            string query = "EXEC [dbo].[SP_PaymentDueByAccountFilter] @PaymentType=2,@accName='" + txtFilter.Text.Trim() + "', @accountTypeId="+ddlAccountType.SelectedValue;
-            DataTable dt = _db.GetDataTable(query);
-            gvPaymentList.DataSource = dt;
-            gvPaymentList.DataBind();
+            LoadGrid();
         }
 
         protected void gvPaymentList_RowDeleting(object sender, GridViewDeleteEventArgs e)
