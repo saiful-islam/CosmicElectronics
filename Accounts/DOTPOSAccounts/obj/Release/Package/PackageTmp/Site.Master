@@ -74,15 +74,16 @@
                         <li>
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Report<b class="caret"></b></a>
                             <ul class="dropdown-menu multi-level">
-                                <li><a runat="server" href="~/Views/Report/CategoryWiseDue">Category wise Due</a></li>
-                                <li><a runat="server" href="~/Views/Report/CategoryWiseTotalSell">Category wise Today Sale</a></li>
+                                <%--<li><a runat="server" href="~/Views/Report/CategoryWiseDue">Category wise Due</a></li>--%>
+                                <li><a runat="server" href="~/Views/Report/MontlySalesStock">Stock Sales Report</a></li>
+                                <li><a runat="server" href="~/Views/Report/SalesReport">Customer Sales Report</a></li>
                                 <li><a runat="server" href="~/Views/Report/TransationByCategory">Transation by Category</a></li>
-                                <li><a runat="server" href="~/Views/Report/CategoryWiseProfit">Category Wise Profit</a></li>
+                                <%--<li><a runat="server" href="~/Views/Report/CategoryWiseProfit">Category Wise Profit</a></li>--%>
                                 <li><a runat="server" href="~/Views/Report/DueCollection">Due Collection</a></li>
                                 <li><a runat="server" href="~/Views/Report/CategoryWiseStock">Category Wise Product Stock</a></li>
                                 <li><a runat="server" href="~/Views/Report/StockEntryReport">Stock Entry Report</a></li>
-                                <li><a runat="server" href="~/Views/Report/CategoryWiseSales">Category Wise Order and Cash</a></li>
-                                <li><a runat="server" href="~/Views/Report/SendSMS">Send SMS</a></li>
+                                <li><%--<a runat="server" href="~/Views/Report/CategoryWiseSales">Category Wise Order and Cash</a>--%></li>
+                                <%--<li><a runat="server" href="~/Views/Report/SendSMS">Send SMS</a></li>--%>
                             </ul>
                         </li>
                     </ul>

@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="StockEntryReport.aspx.cs" Inherits="IslamTraders_Accounts.Views.Report.StockEntryReport" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <h3>Category wise Stock</h3>
+    <h3>Stock Entry Report</h3>
     <table>
         <tr>
             <td>Company(Manufacturer) Name&nbsp;

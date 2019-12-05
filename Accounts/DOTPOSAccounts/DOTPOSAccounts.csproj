@@ -181,7 +181,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Account\Web.config" />
-    <None Include="Properties\PublishProfiles\Hello.pubxml" />
+    <None Include="Properties\PublishProfiles\Cosmic Accounts.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -234,6 +234,8 @@
     <Content Include="Views\Report\CategoryWiseStock.aspx" />
     <Content Include="Views\Report\CategoryWiseTotalSell.aspx" />
     <Content Include="Views\Report\DueCollection.aspx" />
+    <Content Include="Views\Report\MontlySalesStock.aspx" />
+    <Content Include="Views\Report\SalesReport.aspx" />
     <Content Include="Views\Report\SendSMS.aspx" />
     <Content Include="Views\Report\StockEntryReport.aspx" />
     <Content Include="Views\Report\TransationByCategory.aspx" />
@@ -533,6 +535,20 @@
     </Compile>
     <Compile Include="Views\Report\DueCollection.aspx.designer.cs">
       <DependentUpon>DueCollection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Report\MontlySalesStock.aspx.cs">
+      <DependentUpon>MontlySalesStock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Report\MontlySalesStock.aspx.designer.cs">
+      <DependentUpon>MontlySalesStock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Report\SalesReport.aspx.cs">
+      <DependentUpon>SalesReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Report\SalesReport.aspx.designer.cs">
+      <DependentUpon>SalesReport.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\Report\SendSMS.aspx.cs">
       <DependentUpon>SendSMS.aspx</DependentUpon>
