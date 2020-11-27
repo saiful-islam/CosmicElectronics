@@ -7,11 +7,13 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IslamTraders_Accounts.Views.Transaction {
-    
-    
-    public partial class Create {
-        
+namespace IslamTraders_Accounts.Views.Transaction
+{
+
+
+    public partial class Create
+    {
+
         /// <summary>
         /// lblTransId control.
         /// </summary>
@@ -20,7 +22,7 @@ namespace IslamTraders_Accounts.Views.Transaction {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblTransId;
-        
+
         /// <summary>
         /// ddlCategory1 control.
         /// </summary>
@@ -29,7 +31,7 @@ namespace IslamTraders_Accounts.Views.Transaction {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlCategory1;
-        
+
         /// <summary>
         /// ddlCategory2 control.
         /// </summary>
@@ -38,7 +40,7 @@ namespace IslamTraders_Accounts.Views.Transaction {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlCategory2;
-        
+
         /// <summary>
         /// ddlCategory3 control.
         /// </summary>
@@ -47,7 +49,7 @@ namespace IslamTraders_Accounts.Views.Transaction {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlCategory3;
-        
+
         /// <summary>
         /// ddlAccount control.
         /// </summary>
@@ -56,7 +58,16 @@ namespace IslamTraders_Accounts.Views.Transaction {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlAccount;
-        
+
+        /// <summary>
+        /// txtTotalDue control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtTotalDue;
+
         /// <summary>
         /// txtTransTotal control.
         /// </summary>
@@ -65,7 +76,7 @@ namespace IslamTraders_Accounts.Views.Transaction {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtTransTotal;
-        
+
         /// <summary>
         /// txtTransComment control.
         /// </summary>
@@ -74,7 +85,7 @@ namespace IslamTraders_Accounts.Views.Transaction {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtTransComment;
-        
+
         /// <summary>
         /// LinkButton1 control.
         /// </summary>
@@ -83,7 +94,7 @@ namespace IslamTraders_Accounts.Views.Transaction {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.LinkButton LinkButton1;
-        
+
         /// <summary>
         /// btnSave control.
         /// </summary>

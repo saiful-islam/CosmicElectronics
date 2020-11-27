@@ -41,7 +41,17 @@
             </td>
             <td>
                 <br />
-                <asp:DropDownList DataTextField="Name" DataValueField="Id" CssClass="form-control" ID="ddlAccount" runat="server"></asp:DropDownList>
+                <asp:DropDownList DataTextField="Name" DataValueField="Id" CssClass="form-control" ID="ddlAccount" runat="server" AutoPostBack="True" OnSelectedIndexChanged="ddlAccount_SelectedIndexChanged"></asp:DropDownList>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <br />
+                Total Due Amount*&nbsp;&nbsp;
+            </td>
+            <td>
+                <br />
+                <asp:TextBox CssClass="form-control" ID="txtTotalDue" runat="server" ReadOnly="true"></asp:TextBox>
             </td>
         </tr>
         <tr>

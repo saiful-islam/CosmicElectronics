@@ -100,7 +100,8 @@ namespace IslamTraders_Accounts.Views.Transaction
                                 where AccountTypeId=(
 				                                SELECT max(AccountTypeId)
 				                                FROM [dbo].[Category] 
-				                                where Id=" + ddlCategory3.SelectedValue+" )";
+				                                where Id=" + ddlCategory3.SelectedValue+" )" +
+                                " order by Name";
             DataTable dt = _db.GetDataTable(strQuery);
             ddlAccount.DataSource = dt;
             ddlAccount.DataBind();
@@ -163,6 +164,21 @@ namespace IslamTraders_Accounts.Views.Transaction
             catch (Exception ex)
             {
                 //ignore
+            }
+        }
+
+        protected void ddlAccount_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string account = ddlAccount.SelectedValue;
+            string query = "exec [dbo].[SP_TotalDueByAccount] @accID='" + account + "'";
+            DataTable dt = _db.GetDataTable(query);
+            try
+            {
+                txtTotalDue.Text = dt.Rows[0]["Payment_Due"].ToString();
+            }
+            catch(Exception ex)
+            {
+                txtTotalDue.Text = "0.00";
             }
         }
     }
