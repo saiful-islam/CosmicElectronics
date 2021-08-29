@@ -22,6 +22,7 @@
     <asp:GridView ID="gvPaymentList" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" CssClass="table">
         <AlternatingRowStyle BackColor="White" />
         <Columns>
+            <asp:HyperLinkField Text="Payment" DataNavigateUrlFields="OrderId" DataNavigateUrlFormatString="OrderPayment.aspx?id={0}" Target="_blank"></asp:HyperLinkField>
             <asp:BoundField DataField="OrderId" HeaderText="Order Id" />
             <asp:BoundField DataField="Code" HeaderText="Code" />
             <asp:BoundField DataField="Name" HeaderText="Name" />
