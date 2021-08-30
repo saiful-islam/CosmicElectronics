@@ -29,3 +29,12 @@ J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administrati
 J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csproj.CopyComplete
 J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.dll
 J:\DotBanglaSoft\Clients\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.pdb
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.dll.config
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.dll
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\bin\Nop.Admin.pdb
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csproj.App.config
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csprojAssemblyReference.cache
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csproj.CoreCompileInputs.cache
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csproj.CopyComplete
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.dll
+D:\dotbanglasoft\CosmicElectronics\Web\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.pdb

@@ -407,7 +407,8 @@ namespace Nop.Web.Factories
                 ProductSeName = sci.Product.GetSeName(),
                 Quantity = sci.Quantity,
                 AttributeInfo = _productAttributeFormatter.FormatAttributes(sci.Product, sci.AttributesXml),
-                Percentage = sci.Percentage.ToString()
+                Percentage = sci.Percentage.ToString(),
+                ProductManualPrice = sci.ProductManualPrice.ToString()
             };
 
             //allow editing?

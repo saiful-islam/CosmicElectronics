@@ -1294,9 +1294,13 @@ namespace Nop.Web.Controllers
             {
                 if (form["itempercentage" + sci.Id] != null && form["itempercentage" + sci.Id] != "")
                 {
-                    //sci.Product.Price = sci.Product.Price - (sci.Product.Price * (Convert.ToDecimal(form["itempercentage" + sci.Id]) / 100));
                     sci.Percentage = Convert.ToDecimal(form["itempercentage" + sci.Id]);
                 }
+                if (form["itemmanualprice" + sci.Id] != null && form["itemmanualprice" + sci.Id] != "")
+                {
+                    sci.ProductManualPrice = Convert.ToDecimal(form["itemmanualprice" + sci.Id]);
+                }
+
                 bool remove = allIdsToRemove.Contains(sci.Id);
                 if (remove)
                     _shoppingCartService.DeleteShoppingCartItem(sci, ensureOnlyActiveCheckoutAttributes: true);

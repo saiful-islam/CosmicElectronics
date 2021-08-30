@@ -482,6 +482,11 @@ namespace Nop.Services.Catalog
                 includeDiscounts,
                 out discountAmount,
                 out appliedDiscounts);
+
+            if (shoppingCartItem.ProductManualPrice != null && shoppingCartItem.ProductManualPrice > 0)
+            {
+                unitPrice = (decimal)shoppingCartItem.ProductManualPrice;
+            }
             if (shoppingCartItem.Percentage != null && shoppingCartItem.Percentage > 0)
             {
                 unitPrice -= (unitPrice * (decimal)shoppingCartItem.Percentage / 100);

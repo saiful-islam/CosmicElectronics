@@ -31,6 +31,7 @@ namespace Nop.Core.Domain.Orders
         /// <summary>
         /// Gets or sets the Percentage 
         /// </summary>
+        public decimal? ProductManualPrice { get; set; }
         public decimal? Percentage { get; set; }
         /// <summary>
         /// Gets or sets the product attributes in XML format
