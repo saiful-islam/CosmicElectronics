@@ -71,9 +71,12 @@ namespace IslamTraders_Accounts.Views.Payment
                              Name = Leftrow["Name"],
                              Address = Leftrow["Address"],
                              Mobile = Leftrow["Mobile"],
-                             OrderTotal = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["OrderTotal"]) + Convert.ToDecimal(Leftrow["Payment"]),
-                             Paid = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["Paid"]) + Convert.ToDecimal(Leftrow["TotalPaid"]),
-                             DUE = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["DUE"]) + Convert.ToDecimal(Leftrow["Payment_Due"])
+                             //OrderTotal = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["OrderTotal"]) + Convert.ToDecimal(Leftrow["Payment"]),
+                             //Paid = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["Paid"]) + Convert.ToDecimal(Leftrow["TotalPaid"]),
+                             //DUE = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["DUE"]) + Convert.ToDecimal(Leftrow["Payment_Due"])
+                             OrderTotal = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["OrderTotal"]),
+                             Paid = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["Paid"]),
+                             DUE = Convert.ToDecimal(Rightrow == null ? 0 : Rightrow["DUE"])
                          };
             foreach (var r in Result)
             {

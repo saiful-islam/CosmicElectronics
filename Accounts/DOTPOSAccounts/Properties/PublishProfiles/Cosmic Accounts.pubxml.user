@@ -82,10 +82,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/02/2021 11:47:20</publishTime>
     </File>
     <File Include="bin/IslamTraders_Accounts.dll">
-      <publishTime>08/29/2021 21:14:39</publishTime>
+      <publishTime>10/03/2021 12:28:50</publishTime>
     </File>
     <File Include="bin/IslamTraders_Accounts.pdb">
-      <publishTime>08/29/2021 21:14:39</publishTime>
+      <publishTime>10/03/2021 12:28:50</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
       <publishTime>02/02/2021 11:47:20</publishTime>
