@@ -7,6 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_PublishTargetUrl>D:\dotbanglasoft\CosmicElectronics\Publish\Acc</_PublishTargetUrl>
+    <History>False|2023-06-08T06:33:35.9414768Z;False|2023-06-08T12:32:23.0330112+06:00;False|2023-06-08T12:31:13.1806329+06:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="About.aspx">

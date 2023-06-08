@@ -328,8 +328,8 @@ D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Se
 D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.Twitter.xml
 D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\bin\Microsoft.Owin.Security.OAuth.xml
-D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Release\DOTPOSAccounts.csprojAssemblyReference.cache
 D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Release\DOTPOSAccounts.csproj.CoreCompileInputs.cache
 D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Release\DOTPOSAccounts.csproj.CopyComplete
 D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Release\IslamTraders_Accounts.dll
 D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Release\IslamTraders_Accounts.pdb
+D:\dotbanglasoft\CosmicElectronics\Accounts\DOTPOSAccounts\obj\Release\DOTPOSAccounts.csproj.AssemblyReference.cache

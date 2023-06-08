@@ -21,10 +21,12 @@ namespace IslamTraders_Accounts
         {
             // Determine current view
             var isMobile = WebFormsFriendlyUrlResolver.IsMobileView(new HttpContextWrapper(Context));
-            CurrentView = isMobile ? "Mobile" : "Desktop";
+            //CurrentView = isMobile ? "Mobile" : "Desktop";
+            CurrentView = "Desktop";
 
             // Determine alternate view
-            AlternateView = isMobile ? "Desktop" : "Mobile";
+            //AlternateView = isMobile ? "Desktop" : "Mobile";
+            AlternateView = "Desktop";
 
             // Create switch URL from the route, e.g. ~/__FriendlyUrls_SwitchView/Mobile?ReturnUrl=/Page
             var switchViewRouteName = "AspNet.FriendlyUrls.SwitchView";
